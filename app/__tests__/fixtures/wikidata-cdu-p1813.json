@@ -1,0 +1,60 @@
+{
+ "claims": {
+  "P1813": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P1813",
+     "hash": "9004b73de35189dbc39311c6c2a5c8d1dd25ea86",
+     "datavalue": {
+      "value": {
+       "text": "CDU",
+       "language": "de"
+      },
+      "type": "monolingualtext"
+     },
+     "datatype": "monolingualtext"
+    },
+    "type": "statement",
+    "id": "Q49762$4a9e60d1-4780-203c-a397-3f2706cf77ed",
+    "rank": "preferred"
+   },
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P1813",
+     "hash": "ac406dae1ae7dae992fd7d1162f15be155298bab",
+     "datavalue": {
+      "value": {
+       "text": "ХДС",
+       "language": "ru"
+      },
+      "type": "monolingualtext"
+     },
+     "datatype": "monolingualtext"
+    },
+    "type": "statement",
+    "id": "Q49762$8e04fc82-44c2-c6b0-93f5-29e21b572577",
+    "rank": "normal"
+   },
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P1813",
+     "hash": "3465e26a0983d23a6cf84c3f148720ddb8096045",
+     "datavalue": {
+      "value": {
+       "text": "CDU",
+       "language": "ro"
+      },
+      "type": "monolingualtext"
+     },
+     "datatype": "monolingualtext"
+    },
+    "type": "statement",
+    "id": "Q49762$7f84f0db-4147-e64c-270e-c8dc5648e9be",
+    "rank": "normal"
+   }
+  ]
+ }
+}

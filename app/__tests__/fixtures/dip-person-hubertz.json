@@ -1,0 +1,36 @@
+{
+ "numFound": 1,
+ "documents": [
+  {
+   "id": "7309",
+   "funktion": [
+    "MdB"
+   ],
+   "fraktion": [
+    "SPD"
+   ],
+   "nachname": "Hubertz",
+   "vorname": "Verena",
+   "typ": "Person",
+   "wahlperiode": [
+    20,
+    21
+   ],
+   "aktualisiert": "2025-05-09T11:28:40+02:00",
+   "person_roles": [
+    {
+     "ressort_titel": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+     "nachname": "Hubertz",
+     "vorname": "Verena",
+     "wahlperiode_nummer": [
+      21
+     ]
+    }
+   ],
+   "titel": "Verena Hubertz, MdB, SPD",
+   "datum": "2026-10-08",
+   "basisdatum": "2021-12-16"
+  }
+ ],
+ "cursor": "AoJwkJO9jaEDK1BlcnNvbi03MzA5"
+}

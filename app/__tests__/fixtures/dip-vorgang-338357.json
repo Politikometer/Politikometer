@@ -1,0 +1,60 @@
+{
+ "id": "338357",
+ "abstract": "<strong>Beschlussempfehlung des Ausschusses:</strong> Änderungen; Annahme einer Entschließung",
+ "beratungsstand": "Verabschiedet",
+ "vorgangstyp": "Gesetzgebung",
+ "gesta": "N017",
+ "sachgebiet": [
+  "Energie",
+  "Umwelt",
+  "Wirtschaft"
+ ],
+ "typ": "Vorgang",
+ "wahlperiode": 21,
+ "zustimmungsbeduerftigkeit": [
+  "Nein, laut Gesetzentwurf (Drs 462/26 (bes.eilbed.))"
+ ],
+ "initiative": [
+  "Bundesregierung"
+ ],
+ "aktualisiert": "2026-10-23T12:22:36+02:00",
+ "deskriptor": [
+  {
+   "fundstelle": false,
+   "name": "BEHG-Doppelbilanzierungsverordnung",
+   "typ": "Rechtsmaterialien"
+  },
+  {
+   "fundstelle": false,
+   "name": "Brennstoff",
+   "typ": "Sachbegriffe"
+  },
+  {
+   "fundstelle": true,
+   "name": "Brennstoffemissionshandelsgesetz",
+   "typ": "Rechtsmaterialien"
+  },
+  {
+   "fundstelle": false,
+   "name": "Brennstoffemissionshandelsverordnung",
+   "typ": "Rechtsmaterialien"
+  },
+  {
+   "fundstelle": true,
+   "name": "CO2-Bepreisung",
+   "typ": "Sachbegriffe"
+  },
+  {
+   "fundstelle": false,
+   "name": "Emissionshandel",
+   "typ": "Sachbegriffe"
+  },
+  {
+   "fundstelle": false,
+   "name": "Klimaschutz",
+   "typ": "Sachbegriffe"
+  }
+ ],
+ "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+ "datum": "2026-10-15"
+}

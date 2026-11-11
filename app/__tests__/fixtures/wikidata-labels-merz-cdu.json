@@ -1,0 +1,25 @@
+{
+ "entities": {
+  "Q566257": {
+   "type": "item",
+   "id": "Q566257",
+   "labels": {
+    "de": {
+     "language": "de",
+     "value": "Friedrich Merz"
+    }
+   }
+  },
+  "Q49762": {
+   "type": "item",
+   "id": "Q49762",
+   "labels": {
+    "de": {
+     "language": "de",
+     "value": "Christlich Demokratische Union Deutschlands"
+    }
+   }
+  }
+ },
+ "success": 1
+}

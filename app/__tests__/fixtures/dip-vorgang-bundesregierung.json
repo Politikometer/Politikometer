@@ -1,0 +1,106 @@
+{
+ "numFound": 271,
+ "documents": [
+  {
+   "id": "338789",
+   "abstract": "Dämpfung der Kostenbelastungen für stromverbrauchende Unternehmen und Haushalte durch die ansteigenden Übertragungsnetzentgelte und Verteilernetzentgelte infolge der Maßnahmen zur Integration der Erneuerbaren Energien sowie vor dem Hintergrund der steigenden Energiepreise infolge des Iran-Krieges: Fortschreibung der für 2026 getroffenen Regelungen und Gewährung eines Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten in Höhe von insgesamt 5,525 Mrd Euro aus dem Klima- und Transformationsfonds an die Übertragungsnetzbetreiber mit Regelzonenverantwortung auf Grundlage ihrer Plankostenprognose für die Jahre 2027 bis 2029;<br />\r\nEinfügung § 24d und Änderung § 118 Energiewirtschaftsgesetz",
+   "beratungsstand": "Überwiesen",
+   "vorgangstyp": "Gesetzgebung",
+   "gesta": "E048",
+   "sachgebiet": [
+    "Energie",
+    "Wirtschaft"
+   ],
+   "typ": "Vorgang",
+   "wahlperiode": 21,
+   "zustimmungsbeduerftigkeit": [
+    "Nein, laut Gesetzentwurf (Drs 509/26 (bes.eilbed.))"
+   ],
+   "initiative": [
+    "Bundesregierung"
+   ],
+   "aktualisiert": "2026-10-29T11:43:50+01:00",
+   "deskriptor": [
+    {
+     "fundstelle": false,
+     "name": "Bundeszuschuss",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Elektrizitätswirtschaft",
+     "typ": "Sachbegriffe"
+    }
+   ],
+   "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+   "datum": "2026-10-28"
+  },
+  {
+   "id": "338788",
+   "beratungsstand": "Überwiesen",
+   "vorgangstyp": "Gesetzgebung",
+   "gesta": "E033",
+   "sachgebiet": [
+    "Energie",
+    "Wirtschaft"
+   ],
+   "typ": "Vorgang",
+   "wahlperiode": 21,
+   "zustimmungsbeduerftigkeit": [
+    "Nein, laut Gesetzentwurf (Drs 508/26 (bes.eilbed.))"
+   ],
+   "initiative": [
+    "Bundesregierung"
+   ],
+   "aktualisiert": "2026-10-29T11:39:47+01:00",
+   "deskriptor": [
+    {
+     "fundstelle": false,
+     "name": "Energiewirtschaftsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": true,
+     "name": "Gesetz zur Optimierung und Absicherung des Ausbaus der Windenergie auf See",
+     "typ": "Rechtsmaterialien"
+    }
+   ],
+   "titel": "Gesetz zur Optimierung und Absicherung des Ausbaus der Windenergie auf See",
+   "datum": "2026-10-28"
+  },
+  {
+   "id": "338787",
+   "abstract": "Langfristige Stärkung des Arbeitskräfte- und Wachstumspotentials durch höhere Grund- und Kinderfreibeträge, Anhebung des Kindergeldes sowie höherer Reichensteuersatz als Gegenfinanzierung, zukunftsorientierte Fiskalregeln und besonderer gewerbesteuerlicher Zerlegungsmaßstab für Rechenzentrum, steuerliche Entlastungsmaßnahmen zur Erhöhung der verfügbaren Einkommen, Anhebung des Arbeitnehmer-Pauschbetrags, maßvoller Abbau von Subventionen, Reduzierung der steuerlichen Absetzbarkeit von Handwerkerleistungen, Anhebung der maximal zulässigen Stundenlöhne bei steuerlich begünstigten Sonn- und Feiertagszuschlägen u.a.;<br />\r\nÄnderung versch. §§ Einkommensteuergesetz, §§ 29 und 36 Gewerbesteuergesetz, § 6 Bundeskindergeldgesetz sowie § 1 Sozialversicherungsentgeltverordnung",
+   "beratungsstand": "Überwiesen",
+   "vorgangstyp": "Gesetzgebung",
+   "gesta": "D056",
+   "sachgebiet": [
+    "Öffentliche Finanzen, Steuern und Abgaben"
+   ],
+   "typ": "Vorgang",
+   "wahlperiode": 21,
+   "zustimmungsbeduerftigkeit": [
+    "Ja, laut Gesetzentwurf (Drs 507/26 (bes.eilbed.))"
+   ],
+   "initiative": [
+    "Bundesregierung"
+   ],
+   "aktualisiert": "2026-10-29T11:30:06+01:00",
+   "deskriptor": [
+    {
+     "fundstelle": false,
+     "name": "Abzugsfähige Ausgaben",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Arbeitnehmer-Pauschbetrag",
+     "typ": "Sachbegriffe"
+    }
+   ],
+   "titel": "Einkommensteuerreformgesetz 2027",
+   "datum": "2026-10-28"
+  }
+ ],
+ "cursor": "AoJw0IHOsp8DLlZvcmdhbmctMzM0NDc0"
+}

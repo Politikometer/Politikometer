@@ -1,0 +1,485 @@
+{
+  "format": 1,
+  "retrievedAt": "2026-11-05T00:04:59.559Z",
+  "evaluatedFor": "2026-11-05",
+  "source": {
+    "publisher": "Wikidata",
+    "url": "https://www.wikidata.org/wiki/Q133849523",
+    "license": "CC0 1.0"
+  },
+  "chancellor": {
+    "title": "Bundeskanzler",
+    "wikidataId": "Q566257",
+    "name": "Friedrich Merz",
+    "inOfficeSince": "2025-05-06",
+    "party": {
+      "name": "Christlich Demokratische Union Deutschlands",
+      "shortName": "CDU"
+    },
+    "source": {
+      "publisher": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q566257",
+      "license": "CC0 1.0",
+      "retrievedAt": "2026-11-05T00:04:59.559Z",
+      "snapshot": true
+    }
+  },
+  "cabinet": {
+    "wikidataId": "Q133849523",
+    "name": "Kabinett Merz",
+    "since": "2025-05-06",
+    "entries": [
+      {
+        "kind": "member",
+        "wikidataId": "Q566257",
+        "name": "Friedrich Merz",
+        "offices": [
+          {
+            "title": "Bundeskanzler der Bundesrepublik Deutschland",
+            "wikidataId": "Q4970706",
+            "ministry": null,
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": true,
+        "party": {
+          "name": "Christlich Demokratische Union Deutschlands",
+          "shortName": "CDU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q566257",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q1019016",
+        "name": "Bärbel Bas",
+        "offices": [
+          {
+            "title": "Bundesministerin für Arbeit und Soziales",
+            "wikidataId": "Q30533351",
+            "ministry": "Bundesministerium für Arbeit und Soziales",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Sozialdemokratische Partei Deutschlands",
+          "shortName": "SPD"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1019016",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q1696501",
+        "name": "Johann Wadephul",
+        "offices": [
+          {
+            "title": "Bundesminister des Auswärtigen",
+            "wikidataId": "Q568605",
+            "ministry": "Auswärtiges Amt",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Christlich Demokratische Union Deutschlands",
+          "shortName": "CDU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1696501",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q1729523",
+        "name": "Karin Prien",
+        "offices": [
+          {
+            "title": "Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend",
+            "wikidataId": "Q30543531",
+            "ministry": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Christlich Demokratische Union Deutschlands",
+          "shortName": "CDU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1729523",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q15644599",
+        "name": "Nina Warken",
+        "offices": [
+          {
+            "title": "Chefin des Bundeskanzleramtes",
+            "wikidataId": "Q30545012",
+            "ministry": "Bundeskanzleramt",
+            "since": "2026-07-29"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Christlich Demokratische Union Deutschlands",
+          "shortName": "CDU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q15644599",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q106901329",
+        "name": "Karsten Wildberger",
+        "offices": [
+          {
+            "title": "Bundesminister für Digitales und Staatsmodernisierung",
+            "wikidataId": "Q134357591",
+            "ministry": "Bundesministerium für Digitales und Staatsmodernisierung",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Christlich Demokratische Union Deutschlands",
+          "shortName": "CDU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q106901329",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q1806261",
+        "name": "Lars Klingbeil",
+        "offices": [
+          {
+            "title": "Bundesminister der Finanzen",
+            "wikidataId": "Q22575092",
+            "ministry": "Bundesministerium der Finanzen",
+            "since": "2025-05-06"
+          },
+          {
+            "title": "Vizekanzler",
+            "wikidataId": "Q504272",
+            "ministry": null,
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Sozialdemokratische Partei Deutschlands",
+          "shortName": "SPD"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1806261",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q85851",
+        "name": "Dorothee Bär",
+        "offices": [
+          {
+            "title": "Bundesministerin für Forschung, Technologie und Raumfahrt",
+            "wikidataId": "Q30106113",
+            "ministry": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Christlich-Soziale Union in Bayern",
+          "shortName": "CSU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q85851",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "unclear",
+        "title": "Bundesministerium für Gesundheit",
+        "wikidataId": "Q30533368",
+        "reason": "Die Quelle nennt für dieses Amt derzeit keine amtierende Person.",
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q30533368",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q85783",
+        "name": "Alexander Dobrindt",
+        "offices": [
+          {
+            "title": "Bundesminister des Innern",
+            "wikidataId": "Q22575628",
+            "ministry": "Bundesministerium des Innern",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Christlich-Soziale Union in Bayern",
+          "shortName": "CSU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q85783",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q20172451",
+        "name": "Stefanie Hubig",
+        "offices": [
+          {
+            "title": "Bundesministerin der Justiz und für Verbraucherschutz",
+            "wikidataId": "Q30542236",
+            "ministry": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Sozialdemokratische Partei Deutschlands",
+          "shortName": "SPD"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q20172451",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q15434505",
+        "name": "Alois Rainer",
+        "offices": [
+          {
+            "title": "Bundesminister für Landwirtschaft, Ernährung und Heimat",
+            "wikidataId": "Q30543319",
+            "ministry": "Bundesministerium für Landwirtschaft, Ernährung und Heimat",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Christlich-Soziale Union in Bayern",
+          "shortName": "CSU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q15434505",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q1045665",
+        "name": "Carsten Schneider",
+        "offices": [
+          {
+            "title": "Bundesminister für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+            "wikidataId": "Q30544097",
+            "ministry": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Sozialdemokratische Partei Deutschlands",
+          "shortName": "SPD"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1045665",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q1373882",
+        "name": "Patrick Schnieder",
+        "offices": [
+          {
+            "title": "Bundesminister für Verkehr",
+            "wikidataId": "Q30543924",
+            "ministry": "Bundesministerium für Verkehr",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Christlich Demokratische Union Deutschlands",
+          "shortName": "CDU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q1373882",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q893758",
+        "name": "Boris Pistorius",
+        "offices": [
+          {
+            "title": "Bundesminister der Verteidigung",
+            "wikidataId": "Q23016036",
+            "ministry": "Bundesministerium der Verteidigung",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Sozialdemokratische Partei Deutschlands",
+          "shortName": "SPD"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q893758",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q108126",
+        "name": "Katherina Reiche",
+        "offices": [
+          {
+            "title": "Bundesministerin für Wirtschaft und Energie",
+            "wikidataId": "Q30543192",
+            "ministry": "Bundesministerium für Wirtschaft und Energie",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Christlich Demokratische Union Deutschlands",
+          "shortName": "CDU"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q108126",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q108731156",
+        "name": "Reem Alabali Radovan",
+        "offices": [
+          {
+            "title": "Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung",
+            "wikidataId": "Q30544193",
+            "ministry": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Sozialdemokratische Partei Deutschlands",
+          "shortName": "SPD"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q108731156",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      },
+      {
+        "kind": "member",
+        "wikidataId": "Q108742673",
+        "name": "Verena Hubertz",
+        "offices": [
+          {
+            "title": "Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen",
+            "wikidataId": "Q110090747",
+            "ministry": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+            "since": "2025-05-06"
+          }
+        ],
+        "isHeadOfGovernment": false,
+        "party": {
+          "name": "Sozialdemokratische Partei Deutschlands",
+          "shortName": "SPD"
+        },
+        "source": {
+          "publisher": "Wikidata",
+          "url": "https://www.wikidata.org/wiki/Q108742673",
+          "license": "CC0 1.0",
+          "retrievedAt": "2026-11-05T00:04:59.559Z",
+          "snapshot": true
+        }
+      }
+    ],
+    "source": {
+      "publisher": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q133849523",
+      "license": "CC0 1.0",
+      "retrievedAt": "2026-11-05T00:04:59.559Z",
+      "snapshot": true
+    }
+  }
+}

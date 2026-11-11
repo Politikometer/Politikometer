@@ -1,0 +1,38 @@
+# Prüft einmal pro Woche, ob die Datenquellen der App noch so antworten, wie die App es erwartet,
+# und ob die mitgelieferte Regierungsliste noch mit Wikidata übereinstimmt (tools/quellencheck/check.mjs).
+# Schlägt die Prüfung fehl, benachrichtigt GitHub per E-Mail (Einstellung im GitHub-Konto:
+# Settings → Notifications → Actions → „Send notifications for failed workflows only“).
+# Hinweis: GitHub schaltet zeitgesteuerte Workflows ab, wenn 60 Tage lang nichts im Repository geändert wurde;
+# dann kommt eine E-Mail, und der Workflow lässt sich unter „Actions“ wieder einschalten.
+name: Quellen prüfen
+
+on:
+  schedule:
+    # montags 05:17 UTC (bewusst nicht zur vollen Stunde)
+    - cron: '17 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: quellen
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+      - name: Abhängigkeiten installieren
+        working-directory: app
+        run: npm ci --ignore-scripts
+      - name: Quellen prüfen
+        working-directory: app
+        run: npm run quellencheck

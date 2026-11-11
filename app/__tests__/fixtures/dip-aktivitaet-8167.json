@@ -1,0 +1,132 @@
+{
+ "numFound": 19,
+ "documents": [
+  {
+   "id": "1807281",
+   "aktivitaetsart": "Rede",
+   "typ": "Aktivität",
+   "person_id": "8167",
+   "vorgangsbezug_anzahl": 3,
+   "dokumentart": "Plenarprotokoll",
+   "wahlperiode": 21,
+   "aktualisiert": "2026-10-20T09:48:25+02:00",
+   "vorgangsbezug": [
+    {
+     "vorgangsposition": "Beratung",
+     "vorgangstyp": "Entschließungsantrag BT",
+     "titel": "Entschließungsantrag zur Regierungserklärung zum Europäischen Rat am 15. und 16. Oktober 2026 in Brüssel",
+     "id": "340342"
+    },
+    {
+     "vorgangsposition": "Regierungserklärung und Aussprache",
+     "vorgangstyp": "Regierungserklärung",
+     "titel": "Regierungserklärung zum Europäischen Rat am 15./16. Oktober 2026",
+     "id": "340403"
+    },
+    {
+     "vorgangsposition": "Beratung",
+     "vorgangstyp": "Entschließungsantrag BT",
+     "titel": "Entschließungsantrag zur Regierungserklärung zum Europäischen Rat am 15. und 16. Oktober 2026 in Brüssel",
+     "id": "340345"
+    }
+   ],
+   "fundstelle": {
+    "seite": "12642C",
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21101.pdf#P.12642",
+    "id": "5819",
+    "dokumentnummer": "21/101",
+    "datum": "2026-10-14",
+    "verteildatum": "2026-10-15",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21101.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "anfangsseite": 12642,
+    "endseite": 12666,
+    "anfangsquadrant": "C",
+    "endquadrant": "C"
+   },
+   "titel": "Friedrich Merz, Bundeskanzl.",
+   "datum": "2026-10-14"
+  },
+  {
+   "id": "1786892",
+   "aktivitaetsart": "Einleitende Ausführungen und Beantwortung",
+   "typ": "Aktivität",
+   "person_id": "8167",
+   "vorgangsbezug_anzahl": 1,
+   "dokumentart": "Plenarprotokoll",
+   "wahlperiode": 21,
+   "aktualisiert": "2026-10-12T10:28:54+02:00",
+   "vorgangsbezug": [
+    {
+     "vorgangsposition": "Einleitende Ausführungen und Befragung der Bundesregierung",
+     "vorgangstyp": "Befragung der Bundesregierung",
+     "titel": "Einleitende Ausführungen und Befragung des Bundeskanzlers, Friedrich Merz",
+     "id": "336571"
+    }
+   ],
+   "fundstelle": {
+    "seite": "10313B",
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21085.pdf#P.10313",
+    "id": "5801",
+    "dokumentnummer": "21/85",
+    "datum": "2026-06-24",
+    "verteildatum": "2026-06-25",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21085.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "anfangsseite": 10313,
+    "endseite": 10329,
+    "anfangsquadrant": "A",
+    "endquadrant": "C"
+   },
+   "titel": "Friedrich Merz, Bundeskanzl.",
+   "datum": "2026-06-24"
+  },
+  {
+   "id": "1727114",
+   "aktivitaetsart": "Rede",
+   "typ": "Aktivität",
+   "person_id": "8167",
+   "vorgangsbezug_anzahl": 1,
+   "dokumentart": "Plenarprotokoll",
+   "wahlperiode": 21,
+   "aktualisiert": "2025-12-10T13:35:13+01:00",
+   "vorgangsbezug": [
+    {
+     "vorgangsposition": "Ansprache",
+     "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+     "titel": "Ansprache des Bundeskanzlers",
+     "id": "324926"
+    }
+   ],
+   "fundstelle": {
+    "seite": "180",
+    "pdf_url": "https://dserver.bundestag.de/brp/1056.pdf#P.180",
+    "id": "5725",
+    "dokumentnummer": "1056",
+    "datum": "2025-07-11",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BR",
+    "urheber": [],
+    "anfangsseite": 180,
+    "endseite": 183
+   },
+   "deskriptor": [
+    {
+     "name": "Bundeskanzler",
+     "typ": "Institutionen"
+    },
+    {
+     "name": "Bundesregierung",
+     "typ": "Institutionen"
+    }
+   ],
+   "titel": "Friedrich Merz, Bundeskanzl.",
+   "datum": "2025-07-11"
+  }
+ ],
+ "cursor": "AoJwkJOP55YDMkFrdGl2aXRhZXQtMTcxMzU3Mw=="
+}

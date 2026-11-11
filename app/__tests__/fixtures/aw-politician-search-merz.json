@@ -1,0 +1,48 @@
+{
+ "meta": {
+  "abgeordnetenwatch_api": {
+   "version": "2.10.0",
+   "changelog": "https://www.abgeordnetenwatch.de/api/version-changelog/aktuell",
+   "licence": "CC0 1.0",
+   "licence_link": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+   "documentation": "https://www.abgeordnetenwatch.de/api/entitaeten/politician"
+  },
+  "status": "ok",
+  "status_message": "",
+  "result": {
+   "count": 1,
+   "total": 1,
+   "range_start": 0,
+   "range_end": 100
+  }
+ },
+ "data": [
+  {
+   "id": 118559,
+   "entity_type": "politician",
+   "label": "Friedrich Merz",
+   "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/118559",
+   "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/friedrich-merz",
+   "first_name": "Friedrich",
+   "last_name": "Merz",
+   "birth_name": null,
+   "sex": "m",
+   "year_of_birth": 1955,
+   "party": {
+    "id": 2,
+    "entity_type": "party",
+    "label": "CDU",
+    "api_url": "https://www.abgeordnetenwatch.de/api/v2/parties/2"
+   },
+   "party_past": null,
+   "education": "Rechtsanwalt",
+   "residence": "Arnsberg",
+   "occupation": "MdB",
+   "statistic_questions": 465,
+   "statistic_questions_answered": null,
+   "ext_id_bundestagsverwaltung": "11002735",
+   "qid_wikidata": "Q566257",
+   "field_title": null
+  }
+ ]
+}

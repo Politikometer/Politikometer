@@ -1,0 +1,77 @@
+{
+ "numFound": 1,
+ "documents": [
+  {
+   "id": "333135",
+   "abstract": "<strong>Beschlussempfehlung des Ausschusses:</strong> Änderungen",
+   "beratungsstand": "Verkündet",
+   "vorgangstyp": "Gesetzgebung",
+   "gesta": "B036",
+   "sachgebiet": [
+    "Sport, Freizeit und Tourismus"
+   ],
+   "typ": "Vorgang",
+   "wahlperiode": 21,
+   "zustimmungsbeduerftigkeit": [
+    "Nein, laut Gesetzentwurf (Drs 177/26)",
+    "Nein, laut Verkündung (bgbl I)"
+   ],
+   "initiative": [
+    "Bundesregierung"
+   ],
+   "aktualisiert": "2026-10-20T16:30:14+02:00",
+   "verkuendung": [
+    {
+     "jahrgang": "2026",
+     "heftnummer": "308",
+     "ausfertigungsdatum": "2026-10-15",
+     "verkuendungsdatum": "2026-10-20",
+     "einleitungstext": "Gesetz",
+     "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/308",
+     "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+     "verkuendungsblatt_kuerzel": "BGBl I",
+     "fundstelle": "BGBl I 2026, 308"
+    }
+   ],
+   "inkrafttreten": [
+    {
+     "datum": "2026-10-21"
+    },
+    {
+     "datum": "2029-01-01",
+     "erlaeuterung": "§ 4 Abs. 2 Nr. 2 zweiter Halbsatz "
+    }
+   ],
+   "deskriptor": [
+    {
+     "fundstelle": false,
+     "name": "Leistungssport",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Spitzensport-Agentur",
+     "typ": "Institutionen"
+    },
+    {
+     "fundstelle": true,
+     "name": "Sportfördergesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": true,
+     "name": "Sportförderung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Sportler",
+     "typ": "Sachbegriffe"
+    }
+   ],
+   "titel": "Gesetz zur Regelung der Förderung des Spitzensports und weiterer Maßnahmen gesamtstaatlicher Bedeutung im Sport sowie zur Errichtung der Spitzensport-Agentur (Sportfördergesetz - SpoFöG)",
+   "datum": "2026-09-25"
+  }
+ ],
+ "cursor": "AoJw0L2A7KADLlZvcmdhbmctMzMzMTM1"
+}

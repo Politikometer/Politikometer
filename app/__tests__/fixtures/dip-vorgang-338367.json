@@ -1,0 +1,91 @@
+{
+ "id": "338367",
+ "abstract": "Angemessene, zeit- und sachgerechte Besteuerung von Tabakwaren und anderen Dampf- und Rauchprodukten mit jährlichen Erhöhungen für die Jahre 2027 bis 2030 zur Gewährleistung konstanter und planbarer Steuereinnahmen, Stärkung des Konsums im Inland versteuerter Waren, Schutz der öffentlichen Gesundheit und Senkung der Raucherquote von Jugendlichen und Erwachsenen;<br />\r\nÄnderung §§ 2 und 38 Tabaksteuergesetz sowie § 61 Tabaksteuerverordnung<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses:</strong> Anpassung der Steuersätze",
+ "beratungsstand": "Verkündet",
+ "vorgangstyp": "Gesetzgebung",
+ "gesta": "D051",
+ "sachgebiet": [
+  "Gesundheit",
+  "Öffentliche Finanzen, Steuern und Abgaben"
+ ],
+ "typ": "Vorgang",
+ "wahlperiode": 21,
+ "zustimmungsbeduerftigkeit": [
+  "Nein, laut Gesetzentwurf (Drs 443/26 (bes.eilbed.))",
+  "Nein, laut Verkündung (BGBl I)"
+ ],
+ "initiative": [
+  "Bundesregierung"
+ ],
+ "aktualisiert": "2026-10-21T12:41:06+02:00",
+ "vorgang_verlinkung": [
+  {
+   "verweisung": "Entschließungsantrag der Fraktion B90/GR",
+   "titel": "Entschließungsantrag zum Gesetz zur Änderung des Tabaksteuergesetzes",
+   "id": "340385",
+   "wahlperiode": 21
+  }
+ ],
+ "verkuendung": [
+  {
+   "jahrgang": "2026",
+   "heftnummer": "309",
+   "ausfertigungsdatum": "2026-10-19",
+   "verkuendungsdatum": "2026-10-20",
+   "einleitungstext": "Gesetz",
+   "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/309",
+   "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+   "verkuendungsblatt_kuerzel": "BGBl I",
+   "fundstelle": "BGBl I 2026, 309"
+  }
+ ],
+ "inkrafttreten": [
+  {
+   "datum": "2026-10-21"
+  }
+ ],
+ "deskriptor": [
+  {
+   "fundstelle": false,
+   "name": "E-Zigarette",
+   "typ": "Freier Deskriptor"
+  },
+  {
+   "fundstelle": false,
+   "name": "Gesundheitsschutz",
+   "typ": "Sachbegriffe"
+  },
+  {
+   "fundstelle": false,
+   "name": "Jugendschutz",
+   "typ": "Sachbegriffe"
+  },
+  {
+   "fundstelle": false,
+   "name": "Steuererhöhung",
+   "typ": "Sachbegriffe"
+  },
+  {
+   "fundstelle": true,
+   "name": "Tabaksteuer",
+   "typ": "Sachbegriffe"
+  },
+  {
+   "fundstelle": true,
+   "name": "Tabaksteuergesetz",
+   "typ": "Rechtsmaterialien"
+  },
+  {
+   "fundstelle": false,
+   "name": "Tabaksteuerverordnung",
+   "typ": "Rechtsmaterialien"
+  },
+  {
+   "fundstelle": false,
+   "name": "Tabakwaren",
+   "typ": "Sachbegriffe"
+  }
+ ],
+ "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+ "datum": "2026-10-16"
+}

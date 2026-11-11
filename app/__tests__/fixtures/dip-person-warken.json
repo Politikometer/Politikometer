@@ -1,0 +1,87 @@
+{
+ "numFound": 2,
+ "documents": [
+  {
+   "id": "8249",
+   "funktion": [
+    "Bundesmin. f. besondere Aufgaben und Ch. des Bundeskanzleramtes"
+   ],
+   "ressort": [
+    "Bundeskanzleramt"
+   ],
+   "nachname": "Warken",
+   "vorname": "Nina",
+   "typ": "Person",
+   "wahlperiode": [
+    18,
+    19,
+    20,
+    21
+   ],
+   "aktualisiert": "2026-10-22T15:33:00+02:00",
+   "person_roles": [
+    {
+     "ressort_titel": "Bundesministerium für Gesundheit",
+     "nachname": "Warken",
+     "vorname": "Nina",
+     "wahlperiode_nummer": [
+      21
+     ]
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "nachname": "Warken",
+     "vorname": "Nina",
+     "wahlperiode_nummer": [
+      18,
+      19,
+      20
+     ]
+    }
+   ],
+   "titel": "Nina Warken, Bundesmin. f. besondere Aufgaben und Ch. des Bundeskanzleramtes, Bundeskanzleramt",
+   "datum": "2026-10-16",
+   "basisdatum": "2014-02-12"
+  },
+  {
+   "id": "8131",
+   "funktion": [
+    "Bundesmin."
+   ],
+   "ressort": [
+    "Bundesministerium für Gesundheit"
+   ],
+   "nachname": "Warken",
+   "vorname": "Nina",
+   "typ": "Person",
+   "wahlperiode": [
+    18,
+    19,
+    20,
+    21
+   ],
+   "aktualisiert": "2026-07-30T17:32:32+02:00",
+   "person_roles": [
+    {
+     "fraktion": "CDU/CSU",
+     "nachname": "Warken",
+     "vorname": "Nina",
+     "wahlperiode_nummer": [
+      18,
+      19,
+      20
+     ]
+    },
+    {
+     "ressort_titel": "Bundeskanzleramt",
+     "nachname": "Warken",
+     "vorname": "Nina"
+    }
+   ],
+   "titel": "Nina Warken, Bundesmin., Bundesministerium für Gesundheit",
+   "datum": "2026-07-10",
+   "basisdatum": "2014-02-12"
+  }
+ ],
+ "cursor": "AoJwkIjepZ8DK1BlcnNvbi04MTMx"
+}

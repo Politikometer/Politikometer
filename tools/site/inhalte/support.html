@@ -1,0 +1,82 @@
+<!--
+  Inhalt der Support-Seite. Wird von tools/site/build.mjs in Kopf und Fuß eingebettet.
+  Platzhalter: {{EMAIL}}, {{MAILTO_FEHLER}}, {{MAILTO_FRAGE}}
+-->
+<h1>Hilfe und Kontakt</h1>
+
+<div class="card notice">
+  <h2>Kontakt</h2>
+  <p>Schreib uns eine E-Mail an <a href="mailto:{{EMAIL}}">{{EMAIL}}</a>. Wir antworten so bald wie möglich, in der Regel innerhalb weniger Tage.</p>
+  <p><a class="button" href="{{MAILTO_FRAGE}}">E-Mail schreiben</a></p>
+  <p class="meta">Was mit deiner E-Mail passiert, steht in der <a href="datenschutz.html">Datenschutzerklärung</a> (Abschnitt 2.6).</p>
+</div>
+
+<h2>Häufige Fragen</h2>
+
+<details>
+  <summary>Woher kommen die Daten?</summary>
+  <div>
+    <p>Alle Angaben stammen aus öffentlichen Quellen: abgeordnetenwatch.de (Abgeordnete, Mandate, Abstimmungen), DIP – die Parlamentsdokumentation von Bundestag und Bundesrat (Gesetze, Drucksachen, Reden), Wikidata (Zusammensetzung der Bundesregierung), Die Bundeswahlleiterin (Wahlkreisgrenzen) und OpenStreetMap (Postleitzahlgebiete).</p>
+    <p>Bei jeder Angabe in der App stehen Quelle, Lizenz und Abrufdatum. Mit „Original ansehen“ öffnest du die Angabe direkt bei der Quelle. Eine Übersicht steht in der App unter „Über &amp; Quellen“ und auf der <a href="index.html#quellen">Startseite</a>.</p>
+  </div>
+</details>
+
+<details>
+  <summary>Warum steht dort „Keine eindeutige Angabe“?</summary>
+  <div>
+    <p>Wir zeigen eine Person nur an, wenn die Quellen eindeutig sind. Bei der Bundesregierung prüfen wir jede Angabe aus Wikidata zusätzlich in der Parlamentsdokumentation DIP. Ist ein Amt dort nicht eindeutig einer Person zugeordnet – zum Beispiel weil mehrere Personen genannt werden, ein Ende eingetragen ist oder DIP die Funktion nicht bestätigt –, steht „Keine eindeutige Angabe“.</p>
+    <p>Das bedeutet nicht, dass das Amt unbesetzt ist. Lieber zeigen wir keine Angabe als eine falsche. Sobald die Quellen die Angabe eindeutig führen, erscheint sie mit einem Update der App.</p>
+  </div>
+</details>
+
+<details>
+  <summary>Warum sehe ich nicht jede Abstimmung?</summary>
+  <div>
+    <p>Meistens stimmt der Bundestag per Handzeichen oder durch Aufstehen und Sitzenbleiben ab. Dabei wird nicht aufgeschrieben, wie jede einzelne Person gestimmt hat.</p>
+    <p>Nur bei namentlichen Abstimmungen wird veröffentlicht, wie jede und jeder Abgeordnete gestimmt hat. Die gibt es, wenn eine Fraktion oder fünf Prozent der Abgeordneten sie verlangen. Deshalb zeigt die App Einzelstimmen nur für namentliche Abstimmungen. Fehlt eine Abstimmung in der App, kann sie trotzdem stattgefunden haben.</p>
+    <p>„Nicht abgegeben“ heißt: Für diese Person ist bei der Abstimmung keine Stimme verzeichnet. Dafür gibt es viele mögliche Gründe, zum Beispiel Krankheit oder andere Termine. Die Gründe stehen nicht in den Daten.</p>
+  </div>
+</details>
+
+<details>
+  <summary>Meine Postleitzahl gehört zu mehreren Wahlkreisen. Warum?</summary>
+  <div>
+    <p>Postleitzahlgebiete und Wahlkreise haben verschiedene Grenzen. Liegt deine Postleitzahl in mehreren Wahlkreisen, wählst du in der App deinen aus. Welcher Wahlkreis für deine Adresse gilt, steht auf deiner Wahlbenachrichtigung oder bei deiner Gemeinde.</p>
+  </div>
+</details>
+
+<details>
+  <summary>Wie lösche ich meine Daten?</summary>
+  <div>
+    <p>Wir haben keinen Server und kein Nutzerkonto. Deshalb liegen bei uns keine Daten über dich. Auf deinem Gerät speichert die App nur die zuletzt gesuchte Postleitzahl, deine Merkliste und einen Zwischenspeicher der öffentlichen Daten (höchstens 7 Tage).</p>
+    <ul>
+      <li>Alles auf einmal: in der App unter „Über &amp; Quellen“ → „Gespeicherte Daten löschen“.</li>
+      <li>Einzelne Einträge der Merkliste: „Gemerkt“ erneut antippen.</li>
+      <li>Oder in den Einstellungen deines Geräts den Speicher der App löschen bzw. die App deinstallieren.</li>
+    </ul>
+    <p>Wenn du uns eine E-Mail geschrieben hast und sie gelöscht haben möchtest, schreib uns kurz.</p>
+  </div>
+</details>
+
+<details>
+  <summary>Wie melde ich einen Fehler?</summary>
+  <div>
+    <p>In der App gibt es auf vielen Seiten den Knopf „Fehler melden“. Er öffnet dein E-Mail-Programm mit einem vorausgefüllten Betreff. Die App sendet dabei selbst nichts und fügt keine Gerätedaten hinzu.</p>
+    <p>Du kannst auch direkt schreiben: <a href="{{MAILTO_FEHLER}}">Fehler per E-Mail melden</a>. Hilfreich sind: Welche Seite (z. B. Name der Abgeordneten oder Titel des Gesetzes), was falsch ist und – wenn möglich – ein Link zur richtigen Angabe.</p>
+    <p>Betrifft der Fehler die Daten selbst, berichtigt ihn die jeweilige Quelle. Wir prüfen, ob wir die Angabe richtig darstellen, und geben Hinweise gern an die Quelle weiter.</p>
+  </div>
+</details>
+
+<details>
+  <summary>Kostet die App etwas?</summary>
+  <div>
+    <p>Nein. Die App ist kostenlos und ohne Werbung. Geplant ist, dass man das Projekt in der App freiwillig mit einem Betrag unterstützen kann. Das läuft über Google Play bzw. den App Store, schaltet keine Funktionen frei und ist keine steuerlich absetzbare Spende.</p>
+  </div>
+</details>
+
+<details>
+  <summary>Wer steht hinter Politikometer?</summary>
+  <div>
+    <p>Politikometer wird von Lima Projects entwickelt, einem Einzelunternehmen. Wir sind unabhängig: Politikometer ist keine offizielle App des Deutschen Bundestages, des Bundesrates oder der Bundesregierung und wird von keiner Partei unterstützt. Angaben zum Anbieter stehen im <a href="impressum.html">Impressum</a>.</p>
+  </div>
+</details>

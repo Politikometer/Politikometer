@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "abgeordnetenwatch_api": {
+   "version": "2.10.0",
+   "changelog": "https://www.abgeordnetenwatch.de/api/version-changelog/aktuell",
+   "licence": "CC0 1.0",
+   "licence_link": "https://creativecommons.org/publicdomain/zero/1.0/deed.de",
+   "documentation": "https://www.abgeordnetenwatch.de/api/entitaeten/candidacy-mandate"
+  },
+  "status": "ok",
+  "status_message": "",
+  "result": {
+   "count": 1,
+   "total": 1,
+   "range_start": 0,
+   "range_end": 100
+  }
+ },
+ "data": [
+  {
+   "id": 68737,
+   "entity_type": "candidacy_mandate",
+   "label": "Friedrich Merz (Bundestag 2025 - 2029)",
+   "api_url": "https://www.abgeordnetenwatch.de/api/v2/candidacies-mandates/68737",
+   "id_external_administration": "2468",
+   "id_external_administration_description": "mdbID aus der info-xml-Datei der Bundestagsverwaltung",
+   "type": "mandate",
+   "parliament_period": {
+    "id": 161,
+    "entity_type": "parliament_period",
+    "label": "Bundestag 2025 - 2029",
+    "api_url": "https://www.abgeordnetenwatch.de/api/v2/parliament-periods/161",
+    "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/bundestag"
+   },
+   "politician": {
+    "id": 118559,
+    "entity_type": "politician",
+    "label": "Friedrich Merz",
+    "api_url": "https://www.abgeordnetenwatch.de/api/v2/politicians/118559",
+    "abgeordnetenwatch_url": "https://www.abgeordnetenwatch.de/profile/friedrich-merz"
+   },
+   "start_date": null,
+   "end_date": null,
+   "info": null,
+   "electoral_data": {
+    "id": 69612,
+    "entity_type": "electoral_data",
+    "label": "Friedrich Merz (Bundestag 2025 - 2029)",
+    "electoral_list": {
+     "id": 727,
+     "entity_type": "electoral_list",
+     "label": "Landesliste Nordrhein-Westfalen (Bundestag 2025 - 2029)",
+     "api_url": "https://www.abgeordnetenwatch.de/api/v2/electoral-lists/727"
+    },
+    "list_position": 1,
+    "constituency": {
+     "id": 14052,
+     "entity_type": "constituency",
+     "label": "146 - Hochsauerlandkreis (Bundestag 2025 - 2029)",
+     "api_url": "https://www.abgeordnetenwatch.de/api/v2/constituencies/14052"
+    },
+    "constituency_result": 47.7,
+    "constituency_result_count": null,
+    "mandate_won": "constituency"
+   },
+   "fraction_membership": [
+    {
+     "id": 13163,
+     "entity_type": "fraction_membership",
+     "label": "CDU/CSU",
+     "fraction": {
+      "id": 421,
+      "entity_type": "fraction",
+      "label": "CDU/CSU (Bundestag 2025 - 2029)",
+      "api_url": "https://www.abgeordnetenwatch.de/api/v2/fractions/421"
+     },
+     "valid_from": null,
+     "valid_until": null
+    }
+   ]
+  }
+ ]
+}

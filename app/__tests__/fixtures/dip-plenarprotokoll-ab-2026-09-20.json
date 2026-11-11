@@ -1,0 +1,352 @@
+{
+ "numFound": 11,
+ "documents": [
+  {
+   "id": "5822",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 64,
+   "dokumentnummer": "1069",
+   "wahlperiode": 21,
+   "herausgeber": "BR",
+   "pdf_hash": "5d97ff6710760704025d6a1c80614564",
+   "aktualisiert": "2026-10-26T11:41:30+01:00",
+   "vorgangsbezug": [
+    {
+     "id": "329483",
+     "titel": "Gesetz zur Modernisierung des Produkthaftungsrechts und zur Änderung weiterer Vorschriften",
+     "vorgangstyp": "Gesetzgebung"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/brp/1069.pdf",
+    "id": "5822",
+    "dokumentnummer": "1069",
+    "datum": "2026-10-16",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BR",
+    "urheber": []
+   },
+   "titel": "Protokoll der 1069. Sitzung des Bundesrates",
+   "datum": "2026-10-16"
+  },
+  {
+   "id": "5821",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 24,
+   "dokumentnummer": "21/103",
+   "wahlperiode": 21,
+   "herausgeber": "BT",
+   "pdf_hash": "b3a4c27ef5dd012ae9d52f6650f41781",
+   "xml_hash": "0ba1e0cc50f3e109d5d6a6e03e82a541",
+   "aktualisiert": "2026-10-23T14:34:26+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "326793",
+     "titel": "Für eine sichere Rente unserer Kinder - Junior-Spardepot",
+     "vorgangstyp": "Antrag"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21103.pdf",
+    "id": "5821",
+    "dokumentnummer": "21/103",
+    "datum": "2026-10-16",
+    "verteildatum": "2026-10-19",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21103.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Protokoll der 103. Sitzung des 21. Deutschen Bundestages",
+   "datum": "2026-10-16"
+  },
+  {
+   "id": "5820",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 81,
+   "dokumentnummer": "21/102",
+   "wahlperiode": 21,
+   "herausgeber": "BT",
+   "pdf_hash": "6237ce71f47df594daf7999a0ac285e3",
+   "xml_hash": "a5483ba4b70d599b8f16a06129fda7a8",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "325561",
+     "titel": "Streichung der Konsiliarberichtspflicht vor Beginn einer Psychotherapie",
+     "vorgangstyp": "Antrag"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf",
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Protokoll der 102. Sitzung des 21. Deutschen Bundestages",
+   "datum": "2026-10-15"
+  },
+  {
+   "id": "5819",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 71,
+   "dokumentnummer": "21/101",
+   "wahlperiode": 21,
+   "herausgeber": "BT",
+   "pdf_hash": "be66a476eda9280a497f85326092bf0a",
+   "xml_hash": "2e3df0631b5b51f604af558f107dd5ec",
+   "aktualisiert": "2026-10-20T09:48:25+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "338341",
+     "titel": "Gesetz zur Reform des Nachrichtendienstrechts",
+     "vorgangstyp": "Gesetzgebung"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21101.pdf",
+    "id": "5819",
+    "dokumentnummer": "21/101",
+    "datum": "2026-10-14",
+    "verteildatum": "2026-10-15",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21101.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Protokoll der 101. Sitzung des 21. Deutschen Bundestages",
+   "datum": "2026-10-14"
+  },
+  {
+   "id": "5818",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 29,
+   "dokumentnummer": "21/100",
+   "wahlperiode": 21,
+   "herausgeber": "BT",
+   "pdf_hash": "c1faf8745af9a4ea77d6c57594bc16c0",
+   "xml_hash": "835bb0e653993515373edcfa000e87d6",
+   "aktualisiert": "2026-10-23T14:34:32+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "330220",
+     "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Bewertung der operativen Auswirkungen der Ausübung der in der Verordnung (EU) 2022/991 - insbesondere in Artikel 4 Absatz 1 Buchstabe t, Artikel 18 Absatz 2 Buchstabe e, Artikel 18 Absatz 6a sowie Artikel 18a, Artikel 26, Artikel 26a und Artikel 26b - vorgesehenen Aufgaben gemessen an den Zielen von Europol sowie die Bewertung der Auswirkungen dieser Aufgaben auf die in der Charta der Grundrechte festgelegten Grundrechte und Grundfreiheiten, gemäß Artikel 68 Absatz 3 der Verordnung (EU) 2016/794 \r\nKOM(2025) 752 endg.; Ratsdok. 16767/25",
+     "vorgangstyp": "EU-Vorlage"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21100.pdf",
+    "id": "5818",
+    "dokumentnummer": "21/100",
+    "datum": "2026-10-09",
+    "verteildatum": "2026-10-12",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21100.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Protokoll der 100. Sitzung des 21. Deutschen Bundestages",
+   "datum": "2026-10-09"
+  },
+  {
+   "id": "5817",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 92,
+   "dokumentnummer": "21/99",
+   "wahlperiode": 21,
+   "herausgeber": "BT",
+   "pdf_hash": "970ff3f9d780f4df7629427479274e50",
+   "xml_hash": "552f069172792e4676d8ecf19f0a763a",
+   "aktualisiert": "2026-10-13T09:15:29+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "323422",
+     "titel": "Verbesserung der Maßnahmen zur Reduzierung von Risiken durch Fluorchinolon-Antibiotika und Stärkung der Hilfe für Betroffene",
+     "vorgangstyp": "Antrag"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21099.pdf",
+    "id": "5817",
+    "dokumentnummer": "21/99",
+    "datum": "2026-10-08",
+    "verteildatum": "2026-10-09",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21099.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Protokoll der 99. Sitzung des 21. Deutschen Bundestages",
+   "datum": "2026-10-08"
+  },
+  {
+   "id": "5816",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 60,
+   "dokumentnummer": "21/98",
+   "wahlperiode": 21,
+   "herausgeber": "BT",
+   "pdf_hash": "cf935fa77ba77096b7df4be12b690c1f",
+   "xml_hash": "0dc4e50799272adc09f91992de6ae92b",
+   "aktualisiert": "2026-10-13T12:26:37+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "338410",
+     "titel": "Gesetz zu dem Partnerschaftsabkommen vom 17. Januar 2026 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und dem Gemeinsamen Markt des Südens, der Argentinischen Republik, der Föderativen Republik Brasilien, der Republik Paraguay und der Republik Östlich des Uruguay andererseits",
+     "vorgangstyp": "Gesetzgebung"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21098.pdf",
+    "id": "5816",
+    "dokumentnummer": "21/98",
+    "datum": "2026-10-07",
+    "verteildatum": "2026-10-08",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21098.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Protokoll der 98. Sitzung des 21. Deutschen Bundestages",
+   "datum": "2026-10-07"
+  },
+  {
+   "id": "5815",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 112,
+   "dokumentnummer": "1068",
+   "wahlperiode": 21,
+   "herausgeber": "BR",
+   "pdf_hash": "6e99d4b2e5bcfc56c3a7501ed267e86a",
+   "aktualisiert": "2026-10-23T14:30:16+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "325563",
+     "titel": "Gesetz über den Zugang zu Schuldnerberatungsdiensten für Verbraucher (Schuldnerberatungsdienstegesetz - SchuBerDG)",
+     "vorgangstyp": "Gesetzgebung"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/brp/1068.pdf",
+    "id": "5815",
+    "dokumentnummer": "1068",
+    "datum": "2026-09-25",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BR",
+    "urheber": []
+   },
+   "titel": "Protokoll der 1068. Sitzung des Bundesrates",
+   "datum": "2026-09-25"
+  },
+  {
+   "id": "5814",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 33,
+   "dokumentnummer": "21/97",
+   "wahlperiode": 21,
+   "herausgeber": "BT",
+   "pdf_hash": "fd4ca92c760d6195e3b3d7f271ff77c3",
+   "xml_hash": "56d3539ac69cf438ebd2dc1205f20d32",
+   "aktualisiert": "2026-10-20T12:00:51+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "325729",
+     "titel": "Vorschlag für einen Durchführungsbeschluss des Rates über die Aussetzung der Anwendung einiger Bestimmungen der Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates in Bezug auf Guinea \r\nKOM(2025) 413 endg.; Ratsdok. 11613/25",
+     "vorgangstyp": "EU-Vorlage"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21097.pdf",
+    "id": "5814",
+    "dokumentnummer": "21/97",
+    "datum": "2026-09-25",
+    "verteildatum": "2026-09-28",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21097.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Protokoll der 97. Sitzung des 21. Deutschen Bundestages",
+   "datum": "2026-09-25"
+  },
+  {
+   "id": "5813",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 96,
+   "dokumentnummer": "21/96",
+   "wahlperiode": 21,
+   "herausgeber": "BT",
+   "pdf_hash": "c237cbde7afeef863bd94f12f735856b",
+   "xml_hash": "2e1596053ecfe86634465523d9fca20a",
+   "aktualisiert": "2026-10-12T09:30:14+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "325947",
+     "titel": "... Gesetz zur Änderung des Transplantationsgesetzes und Einführung der Widerspruchslösung",
+     "vorgangstyp": "Gesetzgebung"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21096.pdf",
+    "id": "5813",
+    "dokumentnummer": "21/96",
+    "datum": "2026-09-24",
+    "verteildatum": "2026-09-25",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21096.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Protokoll der 96. Sitzung des 21. Deutschen Bundestages",
+   "datum": "2026-09-24"
+  },
+  {
+   "id": "5812",
+   "dokumentart": "Plenarprotokoll",
+   "typ": "Dokument",
+   "vorgangsbezug_anzahl": 65,
+   "dokumentnummer": "21/95",
+   "wahlperiode": 21,
+   "herausgeber": "BT",
+   "pdf_hash": "040921333b062689059f62291e0db5a4",
+   "xml_hash": "2b0729894ec65d44927c02f058642057",
+   "aktualisiert": "2026-10-06T10:54:42+02:00",
+   "vorgangsbezug": [
+    {
+     "id": "323224",
+     "titel": "... Gesetz zur Änderung des Grundgesetzes (Artikel 3 Absatz 3 Satz 1)",
+     "vorgangstyp": "Gesetzgebung"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21095.pdf",
+    "id": "5812",
+    "dokumentnummer": "21/95",
+    "datum": "2026-09-23",
+    "verteildatum": "2026-09-24",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21095.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Protokoll der 95. Sitzung des 21. Deutschen Bundestages",
+   "datum": "2026-09-23"
+  }
+ ],
+ "cursor": "AoJw0Kbt5qADNFBsZW5hcnByb3Rva29sbC01ODEy"
+}

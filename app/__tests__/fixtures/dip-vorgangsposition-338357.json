@@ -1,0 +1,432 @@
+{
+ "numFound": 11,
+ "documents": [
+  {
+   "id": "698417",
+   "vorgangsposition": "Gesetzentwurf",
+   "zuordnung": "BR",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-09-03T13:09:02+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "BRg",
+     "titel": "Bundesregierung"
+    }
+   ],
+   "ueberweisung": [
+    {
+     "ausschuss": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+     "ausschuss_kuerzel": "U",
+     "federfuehrung": true
+    },
+    {
+     "ausschuss": "Wirtschaftsausschuss",
+     "ausschuss_kuerzel": "Wi",
+     "federfuehrung": false
+    }
+   ],
+   "ressort": [
+    {
+     "federfuehrend": true,
+     "titel": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    }
+   ],
+   "fundstelle": {
+    "id": "290208",
+    "dokumentnummer": "462/26",
+    "datum": "2026-08-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Gesetzentwurf",
+    "herausgeber": "BR",
+    "urheber": [
+     "Bundesregierung"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0462-26.pdf"
+   },
+   "datum": "2026-08-14",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "699108",
+   "vorgangsposition": "Gesetzentwurf",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-09-08T12:24:28+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "BRg",
+     "titel": "Bundesregierung"
+    }
+   ],
+   "ressort": [
+    {
+     "federfuehrend": true,
+     "titel": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    }
+   ],
+   "fundstelle": {
+    "id": "290577",
+    "dokumentnummer": "21/7869",
+    "datum": "2026-09-07",
+    "verteildatum": "2026-09-08",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Gesetzentwurf",
+    "herausgeber": "BT",
+    "urheber": [
+     "Bundesregierung"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/078/2107869.pdf"
+   },
+   "datum": "2026-09-07",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "699479",
+   "vorgangsposition": "Empfehlungen der Ausschüsse",
+   "zuordnung": "BR",
+   "abstract": "Stellungnahme",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-09-15T11:14:06+02:00",
+   "fundstelle": {
+    "id": "290749",
+    "dokumentnummer": "462/1/26",
+    "datum": "2026-09-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Empfehlungen",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0462-1-26.pdf"
+   },
+   "datum": "2026-09-14",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "700485",
+   "vorgangsposition": "1. Durchgang",
+   "zuordnung": "BR",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 2,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T14:30:16+02:00",
+   "fundstelle": {
+    "id": "5815",
+    "dokumentnummer": "1068",
+    "datum": "2026-09-25",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brp/1068.pdf#P.454",
+    "anfangsseite": 454,
+    "endseite": 454,
+    "top": 48
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "keine Einwendungen",
+     "grundlage": "Artikel 76 Absatz 2 Satz 4 GG",
+     "dokumentnummer": "462/26",
+     "seite": "454"
+    }
+   ],
+   "datum": "2026-09-25",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "700556",
+   "vorgangsposition": "Beschlussdrucksache",
+   "zuordnung": "BR",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-09-25T16:30:14+02:00",
+   "fundstelle": {
+    "id": "291138",
+    "dokumentnummer": "462/26(B)",
+    "datum": "2026-09-25",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Stellungnahme",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0462-26B.pdf"
+   },
+   "datum": "2026-09-25",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "700699",
+   "vorgangsposition": "Unterrichtung über Stellungnahme des BR",
+   "zuordnung": "BT",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-09-28T16:33:34+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "BRg",
+     "titel": "Bundesregierung"
+    }
+   ],
+   "fundstelle": {
+    "id": "291221",
+    "dokumentnummer": "21/8252",
+    "datum": "2026-09-28",
+    "verteildatum": "2026-09-28",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Unterrichtung",
+    "herausgeber": "BT",
+    "urheber": [
+     "Bundesregierung"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/082/2108252.pdf"
+   },
+   "datum": "2026-09-28",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "700776",
+   "vorgangsposition": "1. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 6,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-12T09:30:14+02:00",
+   "ueberweisung": [
+    {
+     "ausschuss": "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+     "ausschuss_kuerzel": "AfU",
+     "federfuehrung": true
+    },
+    {
+     "ausschuss": "Ausschuss für Wirtschaft und Energie",
+     "ausschuss_kuerzel": "AfWE",
+     "federfuehrung": false
+    },
+    {
+     "ausschuss": "Verkehrsausschuss",
+     "ausschuss_kuerzel": "VerkA",
+     "federfuehrung": false
+    }
+   ],
+   "fundstelle": {
+    "id": "5813",
+    "dokumentnummer": "21/96",
+    "datum": "2026-09-24",
+    "verteildatum": "2026-09-25",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21096.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21096.pdf#P.11983",
+    "anfangsseite": 11983,
+    "endseite": 11986,
+    "anfangsquadrant": "B",
+    "endquadrant": "A"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Überweisung",
+     "dokumentnummer": "21/7869",
+     "seite": "11986A"
+    }
+   ],
+   "datum": "2026-09-24",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "701789",
+   "vorgangsposition": "Beschlussempfehlung und Bericht",
+   "zuordnung": "BT",
+   "abstract": "Empfehlung: Annahme der Vorlage in Ausschussfassung und Annahme einer Entschließung",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 5,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-15T16:59:52+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "AfU",
+     "titel": "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    }
+   ],
+   "fundstelle": {
+    "id": "291653",
+    "dokumentnummer": "21/8626",
+    "datum": "2026-10-14",
+    "verteildatum": "2026-10-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Beschlussempfehlung und Bericht",
+    "herausgeber": "BT",
+    "urheber": [
+     "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/086/2108626.pdf"
+   },
+   "datum": "2026-10-14",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "702162",
+   "vorgangsposition": "2. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 6,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12903",
+    "anfangsseite": 12903,
+    "endseite": 12909,
+    "anfangsquadrant": "A",
+    "endquadrant": "A"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Annahme in Ausschussfassung",
+     "dokumentnummer": "21/7869, 21/8626",
+     "seite": "12909A"
+    },
+    {
+     "beschlusstenor": "Annahme einer Entschließung",
+     "dokumentnummer": "21/8626",
+     "seite": "12919A"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "702341",
+   "vorgangsposition": "2. Beratung",
+   "zuordnung": "BT",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": true,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 1,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.13005",
+    "anfangsseite": 13005,
+    "endseite": 13005,
+    "anfangsquadrant": "A",
+    "endquadrant": "B"
+   },
+   "datum": "2026-10-15",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "702165",
+   "vorgangsposition": "3. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12909",
+    "anfangsseite": 12909,
+    "endseite": 12909,
+    "anfangsquadrant": "A",
+    "endquadrant": "A"
+   },
+   "beschlussfassung": [
+    {
+     "abstimmungsart": "Namentliche Abstimmung",
+     "beschlusstenor": "Annahme in Ausschussfassung",
+     "abstimm_ergebnis_bemerkung": "303:210:52",
+     "dokumentnummer": "21/7869, 21/8626",
+     "seite": "12916B"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "338357"
+  }
+ ],
+ "cursor": "AoJLN1ZvcmdhbmdzcG9zaXRpb24tNzAyMTY1"
+}

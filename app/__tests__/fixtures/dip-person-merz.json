@@ -1,0 +1,41 @@
+{
+ "numFound": 1,
+ "documents": [
+  {
+   "id": "8167",
+   "funktion": [
+    "Bundeskanzl."
+   ],
+   "nachname": "Merz",
+   "vorname": "Friedrich",
+   "typ": "Person",
+   "wahlperiode": [
+    13,
+    14,
+    15,
+    16,
+    20,
+    21
+   ],
+   "aktualisiert": "2025-05-15T14:31:54+02:00",
+   "person_roles": [
+    {
+     "fraktion": "CDU/CSU",
+     "nachname": "Merz",
+     "vorname": "Friedrich",
+     "wahlperiode_nummer": [
+      13,
+      14,
+      15,
+      16,
+      20
+     ]
+    }
+   ],
+   "titel": "Friedrich Merz, Bundeskanzl.",
+   "datum": "2026-10-14",
+   "basisdatum": "1995-01-19"
+  }
+ ],
+ "cursor": "AoJwkNj2nKEDK1BlcnNvbi04MTY3"
+}

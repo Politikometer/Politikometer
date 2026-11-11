@@ -1,0 +1,97 @@
+{
+ "numFound": 3,
+ "documents": [
+  {
+   "id": "1100",
+   "funktion": [
+    "MdB"
+   ],
+   "fraktion": [
+    "CDU/CSU"
+   ],
+   "nachname": "Schnieder",
+   "vorname": "Patrick",
+   "typ": "Person",
+   "wahlperiode": [
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "aktualisiert": "2026-08-28T10:07:17+02:00",
+   "person_roles": [
+    {
+     "ressort_titel": "Bundesministerium für Verkehr",
+     "nachname": "Schnieder",
+     "vorname": "Patrick",
+     "wahlperiode_nummer": [
+      21
+     ]
+    }
+   ],
+   "titel": "Patrick Schnieder, MdB, CDU/CSU",
+   "datum": "2026-09-17",
+   "basisdatum": "2010-02-25"
+  },
+  {
+   "id": "8129",
+   "funktion": [
+    "Bundesmin."
+   ],
+   "ressort": [
+    "Bundesministerium für Verkehr"
+   ],
+   "nachname": "Schnieder",
+   "vorname": "Patrick",
+   "typ": "Person",
+   "wahlperiode": [
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "aktualisiert": "2025-05-09T11:04:43+02:00",
+   "person_roles": [
+    {
+     "fraktion": "CDU/CSU",
+     "nachname": "Schnieder",
+     "vorname": "Patrick",
+     "wahlperiode_nummer": [
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ],
+   "titel": "Patrick Schnieder, Bundesmin., Bundesministerium für Verkehr",
+   "datum": "2026-07-10",
+   "basisdatum": "2010-02-25"
+  },
+  {
+   "id": "8242",
+   "funktionszusatz": [
+    "Ministerpräsident"
+   ],
+   "funktion": [
+    "MdBR"
+   ],
+   "bundesland": [
+    "Rheinland-Pfalz"
+   ],
+   "nachname": "Schnieder",
+   "vorname": "Gordon",
+   "typ": "Person",
+   "wahlperiode": [
+    21
+   ],
+   "aktualisiert": "2026-06-18T14:20:40+02:00",
+   "titel": "Gordon Schnieder, MdBR (Ministerpräsident), Rheinland-Pfalz",
+   "datum": "2026-06-12",
+   "basisdatum": "2026-06-12"
+  }
+ ],
+ "cursor": "AoJwkMbR3Z4DK1BlcnNvbi04MjQy"
+}

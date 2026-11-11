@@ -1,0 +1,87 @@
+{
+ "numFound": 10,
+ "documents": [
+  {
+   "id": "1800408",
+   "aktivitaetsart": "Antrag",
+   "typ": "Aktivität",
+   "person_id": "1100",
+   "vorgangsbezug_anzahl": 1,
+   "dokumentart": "Drucksache",
+   "wahlperiode": 21,
+   "aktualisiert": "2026-10-30T13:04:57+01:00",
+   "vorgangsbezug": [
+    {
+     "vorgangsposition": "Antrag",
+     "vorgangstyp": "Antrag",
+     "titel": "Freiwilligkeit der Organspende sichern - Aufklärungs- und Registrierungspotenziale heben",
+     "id": "339209"
+    }
+   ],
+   "fundstelle": {
+    "pdf_url": "https://dserver.bundestag.de/btd/21/080/2108050.pdf",
+    "id": "290828",
+    "dokumentnummer": "21/8050",
+    "datum": "2026-09-17",
+    "verteildatum": "2026-09-17",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Antrag",
+    "herausgeber": "BT",
+    "urheber": []
+   },
+   "titel": "Patrick Schnieder, MdB, CDU/CSU",
+   "datum": "2026-09-17"
+  },
+  {
+   "id": "1791844",
+   "aktivitaetsart": "Rede",
+   "typ": "Aktivität",
+   "person_id": "1100",
+   "vorgangsbezug_anzahl": 1,
+   "dokumentart": "Plenarprotokoll",
+   "wahlperiode": 21,
+   "aktualisiert": "2026-08-28T10:07:17+02:00",
+   "vorgangsbezug": [
+    {
+     "vorgangsposition": "2. Durchgang",
+     "vorgangstyp": "Gesetzgebung",
+     "titel": "Infrastruktur-Zukunftsgesetz",
+     "id": "329555"
+    }
+   ],
+   "fundstelle": {
+    "seite": "335",
+    "pdf_url": "https://dserver.bundestag.de/brp/1067.pdf#P.335",
+    "id": "5807",
+    "dokumentnummer": "1067",
+    "datum": "2026-07-10",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BR",
+    "urheber": [],
+    "anfangsseite": 330,
+    "endseite": 337
+   },
+   "deskriptor": [
+    {
+     "name": "Genehmigung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "name": "Infrastruktur-Zukunftsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "name": "Planung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "name": "Verkehrsinfrastruktur",
+     "typ": "Sachbegriffe"
+    }
+   ],
+   "titel": "Patrick Schnieder, Bundesmin., Bundesministerium für Verkehr",
+   "datum": "2026-07-10"
+  }
+ ],
+ "cursor": "AoJw0N7Y6ZYDMkFrdGl2aXRhZXQtMTcxNDI1OQ=="
+}

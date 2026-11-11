@@ -1,0 +1,511 @@
+{
+ "numFound": 13,
+ "documents": [
+  {
+   "id": "698427",
+   "vorgangsposition": "Gesetzentwurf",
+   "zuordnung": "BR",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-08-18T13:22:43+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "BRg",
+     "titel": "Bundesregierung"
+    }
+   ],
+   "ueberweisung": [
+    {
+     "ausschuss": "Finanzausschuss",
+     "ausschuss_kuerzel": "Fz",
+     "federfuehrung": true
+    },
+    {
+     "ausschuss": "Gesundheitsausschuss",
+     "ausschuss_kuerzel": "G",
+     "federfuehrung": false
+    },
+    {
+     "ausschuss": "Wirtschaftsausschuss",
+     "ausschuss_kuerzel": "Wi",
+     "federfuehrung": false
+    }
+   ],
+   "ressort": [
+    {
+     "federfuehrend": true,
+     "titel": "Bundesministerium der Finanzen"
+    }
+   ],
+   "fundstelle": {
+    "id": "290218",
+    "dokumentnummer": "443/26",
+    "datum": "2026-08-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Gesetzentwurf",
+    "herausgeber": "BR",
+    "urheber": [
+     "Bundesregierung"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0443-26.pdf"
+   },
+   "datum": "2026-08-14",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "699066",
+   "vorgangsposition": "Gesetzentwurf",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-09-07T17:02:55+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "BRg",
+     "titel": "Bundesregierung"
+    }
+   ],
+   "ressort": [
+    {
+     "federfuehrend": true,
+     "titel": "Bundesministerium der Finanzen"
+    }
+   ],
+   "fundstelle": {
+    "id": "290543",
+    "dokumentnummer": "21/7859",
+    "datum": "2026-09-07",
+    "verteildatum": "2026-09-07",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Gesetzentwurf",
+    "herausgeber": "BT",
+    "urheber": [
+     "Bundesregierung"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/078/2107859.pdf"
+   },
+   "datum": "2026-09-07",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "700472",
+   "vorgangsposition": "1. Durchgang",
+   "zuordnung": "BR",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T14:30:16+02:00",
+   "fundstelle": {
+    "id": "5815",
+    "dokumentnummer": "1068",
+    "datum": "2026-09-25",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brp/1068.pdf#P.447",
+    "anfangsseite": 447,
+    "endseite": 447,
+    "top": 32
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "keine Einwendungen",
+     "grundlage": "Artikel 76 Absatz 2 Satz 4 GG",
+     "dokumentnummer": "443/26",
+     "seite": "447"
+    }
+   ],
+   "datum": "2026-09-25",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "700540",
+   "vorgangsposition": "Beschlussdrucksache",
+   "zuordnung": "BR",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-09-25T16:26:16+02:00",
+   "fundstelle": {
+    "id": "291122",
+    "dokumentnummer": "443/26(B)",
+    "datum": "2026-09-25",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Stellungnahme",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0443-26B.pdf"
+   },
+   "datum": "2026-09-25",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "700698",
+   "vorgangsposition": "Unterrichtung über Stellungnahme des BR",
+   "zuordnung": "BT",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-09-28T16:31:13+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "BRg",
+     "titel": "Bundesregierung"
+    }
+   ],
+   "fundstelle": {
+    "id": "291218",
+    "dokumentnummer": "21/8232",
+    "datum": "2026-09-28",
+    "verteildatum": "2026-09-28",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Unterrichtung",
+    "herausgeber": "BT",
+    "urheber": [
+     "Bundesregierung"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/082/2108232.pdf"
+   },
+   "datum": "2026-09-28",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "700773",
+   "vorgangsposition": "1. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 6,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-12T09:30:14+02:00",
+   "ueberweisung": [
+    {
+     "ausschuss": "Finanzausschuss",
+     "ausschuss_kuerzel": "FinanzA",
+     "federfuehrung": true
+    },
+    {
+     "ausschuss": "Ausschuss für Landwirtschaft, Ernährung und Heimat",
+     "ausschuss_kuerzel": "AfLEH",
+     "federfuehrung": false
+    },
+    {
+     "ueberweisungsart": "gemäß § 96 Geschäftsordnung BT",
+     "ausschuss": "Haushaltsausschuss",
+     "ausschuss_kuerzel": "HaushA",
+     "federfuehrung": false
+    },
+    {
+     "ausschuss": "Haushaltsausschuss",
+     "ausschuss_kuerzel": "HaushA",
+     "federfuehrung": false
+    }
+   ],
+   "fundstelle": {
+    "id": "5813",
+    "dokumentnummer": "21/96",
+    "datum": "2026-09-24",
+    "verteildatum": "2026-09-25",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21096.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21096.pdf#P.11976",
+    "anfangsseite": 11976,
+    "endseite": 11980,
+    "anfangsquadrant": "C",
+    "endquadrant": "C"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Überweisung",
+     "dokumentnummer": "21/7859",
+     "seite": "11980C"
+    }
+   ],
+   "datum": "2026-09-24",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "701760",
+   "vorgangsposition": "Beschlussempfehlung und Bericht",
+   "zuordnung": "BT",
+   "abstract": "Empfehlung: Annahme der Vorlage in Ausschussfassung",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 2,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-15T11:13:06+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "FinanzA",
+     "titel": "Finanzausschuss"
+    }
+   ],
+   "fundstelle": {
+    "id": "291658",
+    "dokumentnummer": "21/8605",
+    "datum": "2026-10-14",
+    "verteildatum": "2026-10-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Beschlussempfehlung und Bericht",
+    "herausgeber": "BT",
+    "urheber": [
+     "Finanzausschuss"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/086/2108605.pdf"
+   },
+   "datum": "2026-10-14",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "701775",
+   "vorgangsposition": "Bericht gemäß § 96 Geschäftsordnung BT",
+   "zuordnung": "BT",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 5,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-15T11:05:03+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "HaushA",
+     "titel": "Haushaltsausschuss"
+    }
+   ],
+   "fundstelle": {
+    "id": "291669",
+    "dokumentnummer": "21/8616",
+    "datum": "2026-10-14",
+    "verteildatum": "2026-10-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Bericht",
+    "herausgeber": "BT",
+    "urheber": [
+     "Haushaltsausschuss"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/086/2108616.pdf"
+   },
+   "datum": "2026-10-14",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "702418",
+   "vorgangsposition": "2. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 6,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12954",
+    "anfangsseite": 12954,
+    "endseite": 12957,
+    "anfangsquadrant": "A",
+    "endquadrant": "D"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Annahme in Ausschussfassung",
+     "dokumentnummer": "21/7859, 21/8605",
+     "seite": "12957C"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "702420",
+   "vorgangsposition": "3. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12957",
+    "anfangsseite": 12957,
+    "endseite": 12957,
+    "anfangsquadrant": "C",
+    "endquadrant": "C"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Annahme in Ausschussfassung",
+     "dokumentnummer": "21/7859, 21/8605",
+     "seite": "12957C"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "701905",
+   "vorgangsposition": "Unterrichtung über Gesetzesbeschluss des BT",
+   "zuordnung": "BR",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-20T15:44:17+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "BT",
+     "titel": "Bundestag"
+    }
+   ],
+   "fundstelle": {
+    "id": "291715",
+    "dokumentnummer": "603/26",
+    "datum": "2026-10-16",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Gesetzesbeschluss",
+    "herausgeber": "BR",
+    "urheber": [
+     "Bundestag"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0603-26.pdf"
+   },
+   "datum": "2026-10-16",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "702095",
+   "vorgangsposition": "2. Durchgang",
+   "zuordnung": "BR",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-26T11:41:30+01:00",
+   "fundstelle": {
+    "id": "5822",
+    "dokumentnummer": "1069",
+    "datum": "2026-10-16",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brp/1069.pdf#P.528",
+    "anfangsseite": 528,
+    "endseite": 528,
+    "top": 58
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "kein Antrag auf Einberufung des Vermittlungsausschusses",
+     "grundlage": "Artikel 77 Absatz 2 GG",
+     "dokumentnummer": "603/26",
+     "seite": "528"
+    }
+   ],
+   "datum": "2026-10-16",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "702164",
+   "vorgangsposition": "Beschlussdrucksache",
+   "zuordnung": "BR",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-20T15:44:12+02:00",
+   "fundstelle": {
+    "id": "291776",
+    "dokumentnummer": "603/26(B)",
+    "datum": "2026-10-16",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Beschluss",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0603-26B.pdf"
+   },
+   "datum": "2026-10-16",
+   "vorgang_id": "338367"
+  }
+ ],
+ "cursor": "AoJNN1ZvcmdhbmdzcG9zaXRpb24tNzAyMTY0"
+}

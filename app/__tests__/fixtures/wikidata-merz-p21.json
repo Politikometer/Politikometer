@@ -1,0 +1,25 @@
+{
+ "claims": {
+  "P21": [
+   {
+    "mainsnak": {
+     "snaktype": "value",
+     "property": "P21",
+     "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+     "datavalue": {
+      "value": {
+       "entity-type": "item",
+       "numeric-id": 6581097,
+       "id": "Q6581097"
+      },
+      "type": "wikibase-entityid"
+     },
+     "datatype": "wikibase-item"
+    },
+    "type": "statement",
+    "id": "Q566257$181FE4D0-B0BD-4B5D-86A2-1AA699ABFD14",
+    "rank": "normal"
+   }
+  ]
+ }
+}

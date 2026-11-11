@@ -1,0 +1,601 @@
+{
+ "numFound": 16,
+ "documents": [
+  {
+   "id": "701794",
+   "vorgangsposition": "Beschlussempfehlung und Bericht",
+   "zuordnung": "BT",
+   "abstract": "Empfehlung: Ablehnung der Vorlage",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Reform der Notfallversorgung und des Rettungsdienstes (Notfallgesetz - NotfallG)",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 5,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-15T12:56:43+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "AfG",
+     "titel": "Ausschuss für Gesundheit"
+    }
+   ],
+   "fundstelle": {
+    "id": "291650",
+    "dokumentnummer": "21/8629",
+    "datum": "2026-10-14",
+    "verteildatum": "2026-10-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Beschlussempfehlung und Bericht",
+    "herausgeber": "BT",
+    "urheber": [
+     "Ausschuss für Gesundheit"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/086/2108629.pdf"
+   },
+   "datum": "2026-10-14",
+   "vorgang_id": "326865"
+  },
+  {
+   "id": "702012",
+   "vorgangsposition": "2. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Reform der Notfallversorgung und des Rettungsdienstes (Notfallgesetz - NotfallG)",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 13,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12769",
+    "anfangsseite": 12769,
+    "endseite": 12783,
+    "anfangsquadrant": "C",
+    "endquadrant": "A"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Ablehnung der Vorlage",
+     "dokumentnummer": "21/2214",
+     "seite": "12782D"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "326865"
+  },
+  {
+   "id": "702070",
+   "vorgangsposition": "1. Durchgang",
+   "zuordnung": "BR",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 1,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-26T14:21:35+01:00",
+   "fundstelle": {
+    "id": "5822",
+    "dokumentnummer": "1069",
+    "datum": "2026-10-16",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brp/1069.pdf#P.521",
+    "anfangsseite": 521,
+    "endseite": 522,
+    "top": 24
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Stellungnahme",
+     "grundlage": "Artikel 76 Absatz 2 Satz 4 GG",
+     "dokumentnummer": "509/26",
+     "seite": "522"
+    }
+   ],
+   "datum": "2026-10-16",
+   "vorgang_id": "338789"
+  },
+  {
+   "id": "702125",
+   "vorgangsposition": "Beschlussdrucksache",
+   "zuordnung": "BR",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-21T14:06:38+02:00",
+   "fundstelle": {
+    "id": "291748",
+    "dokumentnummer": "509/26(B)",
+    "datum": "2026-10-16",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Stellungnahme",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0509-26B.pdf"
+   },
+   "datum": "2026-10-16",
+   "vorgang_id": "338789"
+  },
+  {
+   "id": "702169",
+   "vorgangsposition": "1. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Stärkung der Reserve (Reservestärkungsgesetz - ResStG)",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 7,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "ueberweisung": [
+    {
+     "ausschuss": "Verteidigungsausschuss",
+     "ausschuss_kuerzel": "VgA",
+     "federfuehrung": true
+    },
+    {
+     "ueberweisungsart": "gemäß § 96 Geschäftsordnung BT",
+     "ausschuss": "Haushaltsausschuss",
+     "ausschuss_kuerzel": "HaushA",
+     "federfuehrung": false
+    },
+    {
+     "ausschuss": "Haushaltsausschuss",
+     "ausschuss_kuerzel": "HaushA",
+     "federfuehrung": false
+    },
+    {
+     "ausschuss": "Innenausschuss",
+     "ausschuss_kuerzel": "InnenA",
+     "federfuehrung": false
+    }
+   ],
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12919",
+    "anfangsseite": 12919,
+    "endseite": 12925,
+    "anfangsquadrant": "C",
+    "endquadrant": "C"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Überweisung",
+     "dokumentnummer": "21/8407",
+     "seite": "12925C"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "338369"
+  },
+  {
+   "id": "701760",
+   "vorgangsposition": "Beschlussempfehlung und Bericht",
+   "zuordnung": "BT",
+   "abstract": "Empfehlung: Annahme der Vorlage in Ausschussfassung",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 2,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-15T11:13:06+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "FinanzA",
+     "titel": "Finanzausschuss"
+    }
+   ],
+   "fundstelle": {
+    "id": "291658",
+    "dokumentnummer": "21/8605",
+    "datum": "2026-10-14",
+    "verteildatum": "2026-10-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Beschlussempfehlung und Bericht",
+    "herausgeber": "BT",
+    "urheber": [
+     "Finanzausschuss"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/086/2108605.pdf"
+   },
+   "datum": "2026-10-14",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "701775",
+   "vorgangsposition": "Bericht gemäß § 96 Geschäftsordnung BT",
+   "zuordnung": "BT",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 5,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-15T11:05:03+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "HaushA",
+     "titel": "Haushaltsausschuss"
+    }
+   ],
+   "fundstelle": {
+    "id": "291669",
+    "dokumentnummer": "21/8616",
+    "datum": "2026-10-14",
+    "verteildatum": "2026-10-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Bericht",
+    "herausgeber": "BT",
+    "urheber": [
+     "Haushaltsausschuss"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/086/2108616.pdf"
+   },
+   "datum": "2026-10-14",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "701789",
+   "vorgangsposition": "Beschlussempfehlung und Bericht",
+   "zuordnung": "BT",
+   "abstract": "Empfehlung: Annahme der Vorlage in Ausschussfassung und Annahme einer Entschließung",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 5,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-15T16:59:52+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "AfU",
+     "titel": "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    }
+   ],
+   "fundstelle": {
+    "id": "291653",
+    "dokumentnummer": "21/8626",
+    "datum": "2026-10-14",
+    "verteildatum": "2026-10-14",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Beschlussempfehlung und Bericht",
+    "herausgeber": "BT",
+    "urheber": [
+     "Ausschuss für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/btd/21/086/2108626.pdf"
+   },
+   "datum": "2026-10-14",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "702162",
+   "vorgangsposition": "2. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 6,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12903",
+    "anfangsseite": 12903,
+    "endseite": 12909,
+    "anfangsquadrant": "A",
+    "endquadrant": "A"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Annahme in Ausschussfassung",
+     "dokumentnummer": "21/7869, 21/8626",
+     "seite": "12909A"
+    },
+    {
+     "beschlusstenor": "Annahme einer Entschließung",
+     "dokumentnummer": "21/8626",
+     "seite": "12919A"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "702418",
+   "vorgangsposition": "2. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 6,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12954",
+    "anfangsseite": 12954,
+    "endseite": 12957,
+    "anfangsquadrant": "A",
+    "endquadrant": "D"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Annahme in Ausschussfassung",
+     "dokumentnummer": "21/7859, 21/8605",
+     "seite": "12957C"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "702341",
+   "vorgangsposition": "2. Beratung",
+   "zuordnung": "BT",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": true,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 1,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.13005",
+    "anfangsseite": 13005,
+    "endseite": 13005,
+    "anfangsquadrant": "A",
+    "endquadrant": "B"
+   },
+   "datum": "2026-10-15",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "702420",
+   "vorgangsposition": "3. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12957",
+    "anfangsseite": 12957,
+    "endseite": 12957,
+    "anfangsquadrant": "C",
+    "endquadrant": "C"
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "Annahme in Ausschussfassung",
+     "dokumentnummer": "21/7859, 21/8605",
+     "seite": "12957C"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "701905",
+   "vorgangsposition": "Unterrichtung über Gesetzesbeschluss des BT",
+   "zuordnung": "BR",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-20T15:44:17+02:00",
+   "urheber": [
+    {
+     "einbringer": false,
+     "bezeichnung": "BT",
+     "titel": "Bundestag"
+    }
+   ],
+   "fundstelle": {
+    "id": "291715",
+    "dokumentnummer": "603/26",
+    "datum": "2026-10-16",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Gesetzesbeschluss",
+    "herausgeber": "BR",
+    "urheber": [
+     "Bundestag"
+    ],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0603-26.pdf"
+   },
+   "datum": "2026-10-16",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "702165",
+   "vorgangsposition": "3. Beratung",
+   "zuordnung": "BT",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "fundstelle": {
+    "id": "5820",
+    "dokumentnummer": "21/102",
+    "datum": "2026-10-15",
+    "verteildatum": "2026-10-16",
+    "xml_url": "https://dserver.bundestag.de/btp/21/21102.xml",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BT",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12909",
+    "anfangsseite": 12909,
+    "endseite": 12909,
+    "anfangsquadrant": "A",
+    "endquadrant": "A"
+   },
+   "beschlussfassung": [
+    {
+     "abstimmungsart": "Namentliche Abstimmung",
+     "beschlusstenor": "Annahme in Ausschussfassung",
+     "abstimm_ergebnis_bemerkung": "303:210:52",
+     "dokumentnummer": "21/7869, 21/8626",
+     "seite": "12916B"
+    }
+   ],
+   "datum": "2026-10-15",
+   "vorgang_id": "338357"
+  },
+  {
+   "id": "702095",
+   "vorgangsposition": "2. Durchgang",
+   "zuordnung": "BR",
+   "gang": true,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Plenarprotokoll",
+   "aktualisiert": "2026-10-26T11:41:30+01:00",
+   "fundstelle": {
+    "id": "5822",
+    "dokumentnummer": "1069",
+    "datum": "2026-10-16",
+    "dokumentart": "Plenarprotokoll",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brp/1069.pdf#P.528",
+    "anfangsseite": 528,
+    "endseite": 528,
+    "top": 58
+   },
+   "beschlussfassung": [
+    {
+     "beschlusstenor": "kein Antrag auf Einberufung des Vermittlungsausschusses",
+     "grundlage": "Artikel 77 Absatz 2 GG",
+     "dokumentnummer": "603/26",
+     "seite": "528"
+    }
+   ],
+   "datum": "2026-10-16",
+   "vorgang_id": "338367"
+  },
+  {
+   "id": "702164",
+   "vorgangsposition": "Beschlussdrucksache",
+   "zuordnung": "BR",
+   "gang": false,
+   "fortsetzung": false,
+   "nachtrag": false,
+   "vorgangstyp": "Gesetzgebung",
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "typ": "Vorgangsposition",
+   "aktivitaet_anzahl": 0,
+   "dokumentart": "Drucksache",
+   "aktualisiert": "2026-10-20T15:44:12+02:00",
+   "fundstelle": {
+    "id": "291776",
+    "dokumentnummer": "603/26(B)",
+    "datum": "2026-10-16",
+    "dokumentart": "Drucksache",
+    "drucksachetyp": "Beschluss",
+    "herausgeber": "BR",
+    "urheber": [],
+    "pdf_url": "https://dserver.bundestag.de/brd/2026/0603-26B.pdf"
+   },
+   "datum": "2026-10-16",
+   "vorgang_id": "338367"
+  }
+ ],
+ "cursor": "AoJQ9gQ3Vm9yZ2FuZ3Nwb3NpdGlvbi03MDE3MTU="
+}

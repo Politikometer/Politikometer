@@ -1,0 +1,632 @@
+{
+ "numFound": 5,
+ "documents": [
+  {
+   "id": "338789",
+   "abstract": "Dämpfung der Kostenbelastungen für stromverbrauchende Unternehmen und Haushalte durch die ansteigenden Übertragungsnetzentgelte und Verteilernetzentgelte infolge der Maßnahmen zur Integration der Erneuerbaren Energien sowie vor dem Hintergrund der steigenden Energiepreise infolge des Iran-Krieges: Fortschreibung der für 2026 getroffenen Regelungen und Gewährung eines Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten in Höhe von insgesamt 5,525 Mrd Euro aus dem Klima- und Transformationsfonds an die Übertragungsnetzbetreiber mit Regelzonenverantwortung auf Grundlage ihrer Plankostenprognose für die Jahre 2027 bis 2029;<br />\r\nEinfügung § 24d und Änderung § 118 Energiewirtschaftsgesetz",
+   "beratungsstand": "Überwiesen",
+   "vorgangstyp": "Gesetzgebung",
+   "gesta": "E048",
+   "sachgebiet": [
+    "Energie",
+    "Wirtschaft"
+   ],
+   "typ": "Vorgang",
+   "wahlperiode": 21,
+   "zustimmungsbeduerftigkeit": [
+    "Nein, laut Gesetzentwurf (Drs 509/26 (bes.eilbed.))"
+   ],
+   "initiative": [
+    "Bundesregierung"
+   ],
+   "aktualisiert": "2026-10-29T11:43:50+01:00",
+   "deskriptor": [
+    {
+     "fundstelle": false,
+     "name": "Bundeszuschuss",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Elektrizitätswirtschaft",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Energiepreis",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": true,
+     "name": "Energiewirtschaftsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Iran",
+     "typ": "Geograph. Begriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Klima- und Transformationsfonds",
+     "typ": "Institutionen"
+    },
+    {
+     "fundstelle": false,
+     "name": "Krieg",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Netzentgelt",
+     "typ": "Freier Deskriptor"
+    },
+    {
+     "fundstelle": false,
+     "name": "Privathaushalt",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": true,
+     "name": "Stromnetz",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": true,
+     "name": "Strompreis",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Unternehmen",
+     "typ": "Sachbegriffe"
+    }
+   ],
+   "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+   "datum": "2026-10-28"
+  },
+  {
+   "id": "338367",
+   "abstract": "Angemessene, zeit- und sachgerechte Besteuerung von Tabakwaren und anderen Dampf- und Rauchprodukten mit jährlichen Erhöhungen für die Jahre 2027 bis 2030 zur Gewährleistung konstanter und planbarer Steuereinnahmen, Stärkung des Konsums im Inland versteuerter Waren, Schutz der öffentlichen Gesundheit und Senkung der Raucherquote von Jugendlichen und Erwachsenen;<br />\r\nÄnderung §§ 2 und 38 Tabaksteuergesetz sowie § 61 Tabaksteuerverordnung<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses:</strong> Anpassung der Steuersätze",
+   "beratungsstand": "Verkündet",
+   "vorgangstyp": "Gesetzgebung",
+   "gesta": "D051",
+   "sachgebiet": [
+    "Gesundheit",
+    "Öffentliche Finanzen, Steuern und Abgaben"
+   ],
+   "typ": "Vorgang",
+   "wahlperiode": 21,
+   "zustimmungsbeduerftigkeit": [
+    "Nein, laut Gesetzentwurf (Drs 443/26 (bes.eilbed.))",
+    "Nein, laut Verkündung (BGBl I)"
+   ],
+   "initiative": [
+    "Bundesregierung"
+   ],
+   "aktualisiert": "2026-10-21T12:41:06+02:00",
+   "vorgang_verlinkung": [
+    {
+     "verweisung": "Entschließungsantrag der Fraktion B90/GR",
+     "titel": "Entschließungsantrag zum Gesetz zur Änderung des Tabaksteuergesetzes",
+     "id": "340385",
+     "wahlperiode": 21
+    }
+   ],
+   "verkuendung": [
+    {
+     "jahrgang": "2026",
+     "heftnummer": "309",
+     "ausfertigungsdatum": "2026-10-19",
+     "verkuendungsdatum": "2026-10-20",
+     "einleitungstext": "Gesetz",
+     "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2026/309",
+     "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+     "verkuendungsblatt_kuerzel": "BGBl I",
+     "fundstelle": "BGBl I 2026, 309"
+    }
+   ],
+   "inkrafttreten": [
+    {
+     "datum": "2026-10-21"
+    }
+   ],
+   "deskriptor": [
+    {
+     "fundstelle": false,
+     "name": "E-Zigarette",
+     "typ": "Freier Deskriptor"
+    },
+    {
+     "fundstelle": false,
+     "name": "Gesundheitsschutz",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Jugendschutz",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Steuererhöhung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": true,
+     "name": "Tabaksteuer",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": true,
+     "name": "Tabaksteuergesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Tabaksteuerverordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Tabakwaren",
+     "typ": "Sachbegriffe"
+    }
+   ],
+   "titel": "Gesetz zur Änderung des Tabaksteuergesetzes",
+   "datum": "2026-10-16"
+  },
+  {
+   "id": "338369",
+   "abstract": "Einführung der verpflichtenden Heranziehung von Reservisten zu sogenannten Reservedienstleistungen auch außerhalb des Spannungs- oder Verteidigungsfalls und mit dem Ziel eines Aufwuchses der Reserve auf 200.000 Reservisten: Einberufung ehemaliger Soldaten gestaffelt nach Dienstzeit und bis zu einer Altersgrenze, Aufhebung des Prinzips der doppelten Freiwilligkeit, Festsetzung der Höchstdauer von Reservedienstleistungen pro Jahr, Regelung zu Auslandsverwendungen, Datenabruf zum Zweck der Dienstleistungsüberwachung durch Wehrersatzbehörden, Ausweitung der Kostenerstattung für Arbeitgeber zur Einstellung von Ersatzkräften sowie Einführung eines Förderbetrags für kleine und mittlere Unternehmen bei Heranziehung Beschäftigter zu Reservedienstleistungen; Steigerung der Attraktivität des Reservedienstes durch Erweiterung der finanziellen Leistungen sowie Erstattung von Fahrtkosten und Gewährung von Reisebeihilfen; Einschränkung von Grundrechten betr. Recht auf körperliche Unversehrtheit, Freiheit der Person, Brief- und Postgeheimnis und Freizügigkeit;<br />\r\nKonstitutive Neufassung Gesetz über die Rechtsstellung der Reservistinnen und Reservisten (<strong>Reservistengesetz</strong> &ndash; KResG) als Art. 1 der Vorlage, Änderung §§ 2, 13, 25 und 45 Wehrdienstgesetz, Einfügung § 31c sowie Änderung und Aufhebung zahlr. §§ Soldatengesetz, Änderung versch. §§ von 8 Gesetzen und 2 Rechtsverordnungen, Folgeänderungen in 7 Gesetzen und 5 Rechtsverordnungen, Aufhebung Reservistengesetz alte Fassung; Verordnungsermächtigung",
+   "beratungsstand": "Überwiesen",
+   "vorgangstyp": "Gesetzgebung",
+   "gesta": "H004",
+   "sachgebiet": [
+    "Verteidigung"
+   ],
+   "typ": "Vorgang",
+   "wahlperiode": 21,
+   "zustimmungsbeduerftigkeit": [
+    "Nein, laut Gesetzentwurf (Drs 463/26)"
+   ],
+   "initiative": [
+    "Bundesregierung"
+   ],
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "deskriptor": [
+    {
+     "fundstelle": false,
+     "name": "Arbeitsplatzschutzgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Berufsförderungsverordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Brief-, Post- und Fernmeldegeheimnis",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Bundesbeihilfeverordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Bundeskindergeldgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Bundeswehr",
+     "typ": "Institutionen"
+    },
+    {
+     "fundstelle": false,
+     "name": "Datenabgleich",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Datenverarbeitung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Dienstverpflichtung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Einkommensteuergesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Einsatz-Weiterverwendungsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Grundgesetz Art. 10",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Grundgesetz Art. 11",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Grundgesetz Art. 2",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Grundrechtsbeschränkung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Hinterbliebenenversorgung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Kriegsdienstverweigerungsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Meldepflicht",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Personalausstattung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Personalbedarf",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Personenbezogene Daten",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Persönliche Freiheit",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Recht auf körperliche Unversehrtheit",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": true,
+     "name": "Reservestärkungsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": true,
+     "name": "Reservist",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Reservistengesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Soldatenentschädigungsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Soldatengesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Soldatenlaufbahnverordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Soldatenversorgung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Soldatenversorgungsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Soldatinnen- und Soldatenurlaubsverordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Sozialgesetzbuch III",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Sozialgesetzbuch V",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Sozialgesetzbuch VI",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Sozialgesetzbuch XI",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Uniformverordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Unterhaltssicherungsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Wehrbeschwerdeordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Wehrdienst",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Wehrdienstbeschädigung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Wehrdisziplinarordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Wehrpflichtgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Wehrrecht",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Wehrsold",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Wehrsoldgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Wehrstrafgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Zivildienstgesetz",
+     "typ": "Rechtsmaterialien"
+    }
+   ],
+   "titel": "Gesetz zur Stärkung der Reserve (Reservestärkungsgesetz - ResStG)",
+   "datum": "2026-10-15"
+  },
+  {
+   "id": "338357",
+   "abstract": "<strong>Beschlussempfehlung des Ausschusses:</strong> Änderungen; Annahme einer Entschließung",
+   "beratungsstand": "Verabschiedet",
+   "vorgangstyp": "Gesetzgebung",
+   "gesta": "N017",
+   "sachgebiet": [
+    "Energie",
+    "Umwelt",
+    "Wirtschaft"
+   ],
+   "typ": "Vorgang",
+   "wahlperiode": 21,
+   "zustimmungsbeduerftigkeit": [
+    "Nein, laut Gesetzentwurf (Drs 462/26 (bes.eilbed.))"
+   ],
+   "initiative": [
+    "Bundesregierung"
+   ],
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "deskriptor": [
+    {
+     "fundstelle": false,
+     "name": "BEHG-Doppelbilanzierungsverordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Brennstoff",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": true,
+     "name": "Brennstoffemissionshandelsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Brennstoffemissionshandelsverordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": true,
+     "name": "CO2-Bepreisung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Emissionshandel",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Klimaschutz",
+     "typ": "Sachbegriffe"
+    }
+   ],
+   "titel": "Drittes Gesetz zur Änderung des Brennstoffemissionshandelsgesetzes",
+   "datum": "2026-10-15"
+  },
+  {
+   "id": "326865",
+   "abstract": "Verbesserung von Vernetzung und Kooperation der drei Versorgungsbereiche Notdienst der Kassenärztlichen Vereinigungen, Notaufnahmen der Krankenhäuser und Rettungsdienste, der Steuerung der Hilfesuchenden in die richtige Versorgungsebene sowie die wirtschaftliche Notfallversorgung von Patienten: Vernetzung der KV-Rufnummer und der Notrufnummer der Rettungsleitstellen mit wechselseitigen Übermittlungsmöglichkeiten, Ausbau des telemedizinischen Angebots und Nutzung der Telematikinfrastruktur, Sicherstellung einer notdienstlichen Akutversorgung durch die Kassenärztlichen Vereinigungen mit durchgängiger telemedizinischer und aufsuchender Versorgung, flächendeckende Einrichtung sektorenübergreifender Integrierter Notfallzentren (INZ) für eine bedarfsgerechte Erstversorgung, Mindestöffnungszeiten für Notdienstpraxen und Kooperationsvereinbarungen zwischen Krankenhäusern und KV, Rettungsdienst als eigenständiger GKV-Leistungsbereich u.a.; Evaluation und Berichtspflicht;<br />\r\nÄnderung von 3 Gesetzen und 3 Rechtsverordnungen<br />\r\n<br />\r\nBezug: Wiedervorlage des Gesetzentwurfs auf BR-Drs 379/24 (GESTA 20. WP M041) in geänderter Fassung",
+   "beratungsstand": "Abgelehnt",
+   "vorgangstyp": "Gesetzgebung",
+   "gesta": "M009",
+   "sachgebiet": [
+    "Gesundheit"
+   ],
+   "typ": "Vorgang",
+   "wahlperiode": 21,
+   "zustimmungsbeduerftigkeit": [
+    "Nein, laut Gesetzentwurf (Drs 21/2214)"
+   ],
+   "initiative": [
+    "Fraktion BÜNDNIS 90/DIE GRÜNEN"
+   ],
+   "aktualisiert": "2026-10-23T12:22:36+02:00",
+   "deskriptor": [
+    {
+     "fundstelle": false,
+     "name": "Arztpraxis",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Bericht der Bundesregierung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "E-Health",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Gesetzesfolgenabschätzung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Gesetzliche Krankenversicherung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Gesundheitsfinanzierung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Kassenärztliche Vereinigung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Krankenhausbehandlung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Krankenhausentgeltgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Krankenhausfinanzierungsgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Krankenhausstrukturfonds-Verordnung",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Medizinische Versorgung",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Notfallgesetz",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": true,
+     "name": "Notfallmedizin",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Rettungswesen",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Sozialgesetzbuch V",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Telemedizin",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Vertragsarzt",
+     "typ": "Sachbegriffe"
+    },
+    {
+     "fundstelle": false,
+     "name": "Zulassungsverordnung für Vertragsärzte",
+     "typ": "Rechtsmaterialien"
+    },
+    {
+     "fundstelle": false,
+     "name": "Ärztlicher Notdienst",
+     "typ": "Sachbegriffe"
+    }
+   ],
+   "titel": "Gesetz zur Reform der Notfallversorgung und des Rettungsdienstes (Notfallgesetz - NotfallG)",
+   "datum": "2026-10-15"
+  }
+ ],
+ "cursor": "AoJw0Jz6x6ADLlZvcmdhbmctMzM4MzE3"
+}

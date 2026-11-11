@@ -1,0 +1,49 @@
+{
+ "numFound": 1,
+ "documents": [
+  {
+   "id": "8122",
+   "funktion": [
+    "Bundesmin."
+   ],
+   "ressort": [
+    "Auswärtiges Amt"
+   ],
+   "nachname": "Wadephul",
+   "vorname": "Johann David",
+   "typ": "Person",
+   "wahlperiode": [
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "aktualisiert": "2025-05-09T10:12:21+02:00",
+   "person_roles": [
+    {
+     "fraktion": "CDU/CSU",
+     "nachname": "Wadephul",
+     "vorname": "Johann David",
+     "wahlperiode_nummer": [
+      19,
+      20
+     ]
+    },
+    {
+     "fraktion": "CDU/CSU",
+     "nachname": "Wadephul",
+     "vorname": "Johann",
+     "wahlperiode_nummer": [
+      17,
+      18
+     ]
+    }
+   ],
+   "titel": "Dr. Johann David Wadephul, Bundesmin., Auswärtiges Amt",
+   "datum": "2026-10-08",
+   "basisdatum": "2010-02-09"
+  }
+ ],
+ "cursor": "AoJwkJO9jaEDK1BlcnNvbi04MTIy"
+}

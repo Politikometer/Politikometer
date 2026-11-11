@@ -1,0 +1,22 @@
+# Python-Werkzeuge
+tools/.venv/
+tools/**/cache/
+tools/**/node_modules/
+__pycache__/
+
+# Editor / System
+.DS_Store
+Thumbs.db
+
+# Geheimnisse (Schlüssel, Zugangsdaten) nie einchecken
+.env
+.env.*
+*.keystore
+*.jks
+*.p8
+*.p12
+*.pem
+*service-account*.json
+
+# Lokale Claude-Einstellungen
+.claude/settings.local.json

@@ -1,0 +1,72 @@
+{
+ "head": {
+  "vars": [
+   "cabinet",
+   "cabinetLabel",
+   "start",
+   "end"
+  ]
+ },
+ "results": {
+  "bindings": [
+   {
+    "cabinet": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q133849523"
+    },
+    "cabinetLabel": {
+     "xml:lang": "de",
+     "type": "literal",
+     "value": "Kabinett Merz"
+    },
+    "start": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2025-05-06T00:00:00Z"
+    }
+   },
+   {
+    "cabinet": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q48055676"
+    },
+    "cabinetLabel": {
+     "xml:lang": "de",
+     "type": "literal",
+     "value": "Kabinett Merkel IV"
+    },
+    "start": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2018-03-14T00:00:00Z"
+    },
+    "end": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2021-12-08T00:00:00Z"
+    }
+   },
+   {
+    "cabinet": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q109712556"
+    },
+    "cabinetLabel": {
+     "xml:lang": "de",
+     "type": "literal",
+     "value": "Kabinett Scholz"
+    },
+    "start": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2021-12-08T00:00:00Z"
+    },
+    "end": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2025-05-06T00:00:00Z"
+    }
+   }
+  ]
+ }
+}
