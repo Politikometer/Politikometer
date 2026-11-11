@@ -22,7 +22,7 @@ export function ShareButton(props: ShareContent & { label?: string }) {
       accessibilityHint="Öffnet das Teilen-Menü deines Geräts mit Titel und Link zur Originalquelle"
       style={({ pressed }) => [
         styles.button,
-        { borderColor: colors.primary, opacity: pressed ? 0.85 : 1 },
+        { backgroundColor: colors.primarySoft, borderColor: colors.primarySoft, opacity: pressed ? 0.85 : 1 },
       ]}>
       <AppText importantForAccessibility="no" style={[styles.label, { color: colors.primary }]}>
         {label}
@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.md,
     paddingVertical: spacing.sm,
     borderRadius: radius.md,
-    borderWidth: 2,
+    borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
   },

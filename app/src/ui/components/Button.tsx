@@ -7,7 +7,11 @@ import { MIN_TOUCH, radius, spacing, useTheme } from '@/ui/theme';
 type Props = {
   label: string;
   onPress: () => void;
-  variant?: 'primary' | 'secondary';
+  /**
+   * primary: gefüllt (wichtigste Aktion). secondary: zart getönte Fläche ohne Rahmen.
+   * onHero: für die farbige Fläche oben auf der Startseite.
+   */
+  variant?: 'primary' | 'secondary' | 'onHero';
   disabled?: boolean;
   hint?: string;
   /**
@@ -19,11 +23,12 @@ type Props = {
 
 export function Button({ label, onPress, variant = 'primary', disabled, hint, accessibilityLabel }: Props) {
   const { colors } = useTheme();
-  const primary = variant === 'primary';
-  // Deaktiviert: Fläche und Rahmen gedämpft, Beschriftung in textMuted (≥ 4,5:1) statt Transparenz.
-  const background = disabled ? 'transparent' : primary ? colors.primary : 'transparent';
-  const border = disabled ? colors.border : colors.primary;
-  const textColor = disabled ? colors.textMuted : primary ? colors.onPrimary : colors.primary;
+  const fill = { primary: colors.primary, secondary: colors.primarySoft, onHero: colors.heroAction }[variant];
+  const text = { primary: colors.onPrimary, secondary: colors.primary, onHero: colors.onHeroAction }[variant];
+  // Deaktiviert: nur ein dezenter Rahmen, Beschriftung in textMuted (≥ 4,5:1) statt Transparenz.
+  const background = disabled ? 'transparent' : fill;
+  const border = disabled ? colors.border : fill;
+  const textColor = disabled ? colors.textMuted : text;
   return (
     <AppPressable
       onPress={onPress}
@@ -37,7 +42,7 @@ export function Button({ label, onPress, variant = 'primary', disabled, hint, ac
         {
           backgroundColor: background,
           borderColor: border,
-          opacity: !disabled && pressed ? 0.85 : 1,
+          opacity: !disabled && pressed ? 0.8 : 1,
         },
       ]}>
       <AppText style={[styles.label, { color: textColor }]}>
@@ -49,11 +54,11 @@ export function Button({ label, onPress, variant = 'primary', disabled, hint, ac
 
 const styles = StyleSheet.create({
   button: {
-    minHeight: MIN_TOUCH,
+    minHeight: MIN_TOUCH + 4,
     paddingHorizontal: spacing.lg,
     paddingVertical: spacing.sm + 4,
     borderRadius: radius.md,
-    borderWidth: 2,
+    borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
   },

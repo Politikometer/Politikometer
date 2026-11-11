@@ -1,21 +1,24 @@
 import type { ReactNode } from 'react';
 import { View, type ViewProps } from 'react-native';
 
-import { radius, spacing, useTheme } from '@/ui/theme';
+import { cardShadow, radius, spacing, useTheme } from '@/ui/theme';
 
+/** Ruhige Fläche: hell mit weichem Schatten statt Rahmen, dunkel mit feinem Rahmen. */
 export function Card({ children, style, ...rest }: ViewProps & { children: ReactNode }) {
-  const { colors } = useTheme();
+  const theme = useTheme();
+  const { colors } = theme;
   return (
     <View
       style={[
         {
           backgroundColor: colors.surface,
-          borderColor: colors.border,
+          borderColor: theme.dark ? colors.border : 'transparent',
           borderWidth: 1,
-          borderRadius: radius.md,
-          padding: spacing.md,
+          borderRadius: radius.lg,
+          padding: spacing.md + 4,
           gap: spacing.sm,
         },
+        cardShadow(theme),
         style,
       ]}
       {...rest}>

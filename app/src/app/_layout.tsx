@@ -36,6 +36,10 @@ export default function RootLayout() {
           screenOptions={{
             headerBackButtonDisplayMode: 'minimal',
             headerTitleStyle: { fontWeight: '600' },
+            // Flache Kopfzeile in der Hintergrundfarbe, ohne Trennlinie.
+            headerStyle: { backgroundColor: theme.colors.background },
+            headerShadowVisible: false,
+            headerTintColor: theme.colors.primary,
             contentStyle: { backgroundColor: theme.colors.background },
           }}>
           <Stack.Screen name="index" options={{ title: 'Politikometer' }} />

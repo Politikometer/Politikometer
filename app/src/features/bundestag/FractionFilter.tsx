@@ -2,7 +2,7 @@ import { StyleSheet, View } from 'react-native';
 
 import { AppPressable } from '@/ui/components/AppPressable';
 import { AppText } from '@/ui/components/AppText';
-import { MIN_TOUCH, radius, spacing, useTheme } from '@/ui/theme';
+import { MIN_TOUCH, spacing, useTheme } from '@/ui/theme';
 
 /**
  * Neutrale Auswahl einer Fraktion: alphabetisch (Reihenfolge kommt von außen),
@@ -38,12 +38,12 @@ function Chip({ label, active, onPress }: { label: string; active: boolean; onPr
       style={({ pressed }) => [
         styles.chip,
         {
-          backgroundColor: active ? colors.primary : colors.surface,
-          borderColor: colors.primary,
+          backgroundColor: active ? colors.primary : colors.primarySoft,
+          borderColor: active ? colors.primary : colors.primarySoft,
           opacity: pressed ? 0.85 : 1,
         },
       ]}>
-      <AppText variant="small" style={{ color: active ? colors.onPrimary : colors.text, fontWeight: '600' }}>
+      <AppText variant="small" style={{ color: active ? colors.onPrimary : colors.primary, fontWeight: '600' }}>
         {label}
       </AppText>
     </AppPressable>
@@ -55,8 +55,8 @@ const styles = StyleSheet.create({
   chip: {
     minHeight: MIN_TOUCH,
     paddingHorizontal: spacing.md,
-    borderWidth: 2,
-    borderRadius: radius.md,
+    borderWidth: 1,
+    borderRadius: 24,
     justifyContent: 'center',
   },
 });

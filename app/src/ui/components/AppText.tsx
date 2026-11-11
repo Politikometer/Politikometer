@@ -18,7 +18,8 @@ export function AppText({ variant = 'body', style, ...rest }: Props) {
           color: variant === 'muted' || variant === 'small' ? colors.textMuted : colors.text,
           fontSize: fontSize[variant === 'muted' ? 'body' : variant],
           lineHeight: Math.round(fontSize[variant === 'muted' ? 'body' : variant] * 1.4),
-          fontWeight: isHeading ? '700' : '400',
+          fontWeight: variant === 'title' ? '700' : variant === 'heading' ? '600' : '400',
+          letterSpacing: variant === 'title' ? -0.4 : 0,
         },
         style,
       ]}

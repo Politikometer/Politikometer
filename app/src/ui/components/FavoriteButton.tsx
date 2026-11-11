@@ -77,8 +77,8 @@ export function FavoriteButton({ type, id, title, subtitle }: Props) {
       style={({ pressed }) => [
         styles.button,
         {
-          backgroundColor: selected ? colors.primary : 'transparent',
-          borderColor: colors.primary,
+          backgroundColor: selected ? colors.primary : colors.primarySoft,
+          borderColor: selected ? colors.primary : colors.primarySoft,
           opacity: !loaded ? 0.5 : pressed ? 0.85 : 1,
         },
       ]}>
@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.md,
     paddingVertical: spacing.sm,
     borderRadius: radius.md,
-    borderWidth: 2,
+    borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
   },
