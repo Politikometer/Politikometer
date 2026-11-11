@@ -8,6 +8,7 @@ import { useLastPlz } from '@/state/last-plz';
 import { AppPressable } from '@/ui/components/AppPressable';
 import { AppText } from '@/ui/components/AppText';
 import { Button } from '@/ui/components/Button';
+import { Card } from '@/ui/components/Card';
 import { favoriteHref } from '@/ui/components/FavoriteButton';
 import { MenuGroup, MenuRow } from '@/ui/components/Menu';
 import { Screen } from '@/ui/components/Screen';
@@ -149,6 +150,18 @@ export default function StartScreen() {
           />
         </MenuGroup>
       </View>
+
+      {/* Bewusst am Ende: erst der Nutzen, dann die Bitte. */}
+      <Card>
+        <AppText variant="heading">Gefällt dir Politikometer?</AppText>
+        <AppText>Ein kleines Trinkgeld hält die App kostenlos, werbefrei und unabhängig.</AppText>
+        <Button
+          label="Trinkgeld geben"
+          variant="secondary"
+          hint="Öffnet die Seite zum freiwilligen Trinkgeld"
+          onPress={() => router.push('/trinkgeld')}
+        />
+      </Card>
 
       <AppText variant="small" style={styles.note}>
         Deine Postleitzahl und deine Merkliste bleiben auf deinem Gerät. Die App hat kein Nutzerkonto und kein Tracking.

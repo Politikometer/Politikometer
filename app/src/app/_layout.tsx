@@ -4,6 +4,7 @@ import { StatusBar } from 'expo-status-bar';
 
 import { connectQueryToAppLifecycle } from '@/state/app-lifecycle';
 import { persistOptions, queryClient } from '@/state/query-client';
+import { HomeTitle } from '@/ui/components/HomeTitle';
 import { useTheme } from '@/ui/theme';
 
 // Stürzt eine Seite beim Anzeigen ab, zeigt expo-router diese Fehlerseite statt eines leeren Bildschirms.
@@ -42,7 +43,7 @@ export default function RootLayout() {
             headerTintColor: theme.colors.primary,
             contentStyle: { backgroundColor: theme.colors.background },
           }}>
-          <Stack.Screen name="index" options={{ title: 'Politikometer' }} />
+          <Stack.Screen name="index" options={{ title: 'Politikometer', headerTitle: () => <HomeTitle /> }} />
           <Stack.Screen name="abgeordnete/index" options={{ title: 'Alle Abgeordneten' }} />
           <Stack.Screen name="plz/[plz]" options={{ title: 'Wahlkreis wählen' }} />
           <Stack.Screen name="wahlkreis/[nr]" options={{ title: 'Bundestag' }} />
@@ -54,6 +55,7 @@ export default function RootLayout() {
           <Stack.Screen name="regierung/minister/[qid]" options={{ title: 'Mitglied der Bundesregierung' }} />
           <Stack.Screen name="kandidaten/[nr]" options={{ title: 'Kandidierende' }} />
           <Stack.Screen name="ueber" options={{ title: 'Über & Quellen' }} />
+          <Stack.Screen name="trinkgeld" options={{ title: 'Trinkgeld' }} />
           <Stack.Screen name="rechtliches/datenschutz" options={{ title: 'Datenschutz' }} />
           <Stack.Screen name="rechtliches/impressum" options={{ title: 'Impressum' }} />
           <Stack.Screen name="rechtliches/lizenzen" options={{ title: 'Open-Source-Lizenzen' }} />
