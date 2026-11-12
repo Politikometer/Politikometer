@@ -34,7 +34,7 @@ Keine offizielle Quelle ordnet Postleitzahlen den Wahlkreisen zu. Wir berechnen 
 
 - **URL:** https://search.dip.bundestag.de/api/v1/ · Hilfe: https://dip.bundestag.de/über-dip/hilfe/api
 - **Inhalt:** Vorgänge, Drucksachen, Plenarprotokolle, Aktivitäten (Reden, Anfragen) mit Personenbezug.
-- **Schlüssel:** Öffentlicher API-Key (gültig bis Ende 05/2027, kann bei Missbrauch kurzfristig getauscht werden). Eigener, dauerhafter Key formlos per E-Mail an parlamentsdokumentation@bundestag.de → **vor dem Release beantragen**.
+- **Schlüssel:** Die veröffentlichte App nutzt einen eigenen, personalisierten API-Key des Anbieters (erteilt 11/2026, zehn Jahre gültig, formlos verlängerbar). Er steht nicht im Quelltext, sondern wird beim Bauen über die Umgebungsvariable `EXPO_PUBLIC_DIP_API_KEY` eingesetzt. Wer die App selbst baut, nutzt ohne diese Variable den öffentlichen API-Key aus der DIP-Hilfe (gültig bis Ende 05/2027) oder beantragt einen eigenen bei parlamentsdokumentation@bundestag.de. Zu Anfragegrenzen nennt der Bundestag keine Zahlen; bei Überschreitung kommt keine eigene Fehlermeldung, sondern eine allgemeine HTTP-Antwort.
 - **Nutzungsbedingungen** (Stand 27.02.2023): Nutzung und Weiterverarbeitung frei. Pflichten:
   - Quelle angeben: **„Deutscher Bundestag/Bundesrat – DIP“**, bei Drucksachen/Protokollen zusätzlich „BT-Drs. <Nr.>“ bzw. „BT-PlPr. <Nr.>“.
   - Änderungen kenntlich machen; PDF-Originale nicht verändern.

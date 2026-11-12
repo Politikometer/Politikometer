@@ -5,11 +5,16 @@
 
 /**
  * Öffentlicher API-Schlüssel aus der DIP-Hilfe („zunächst bis Ende Mai 2027 gültig“,
- * abgerufen am 30.10.2026). Er kann bei Missbrauch kurzfristig getauscht werden.
- * Gültig bis Ende 05/2027 – eigener, dauerhafter Schlüssel ist bei
- * parlamentsdokumentation@bundestag.de zu beantragen (vor dem Release), dann hier ersetzen.
+ * abgerufen am 30.10.2026). Nur Rückfall für Entwicklung und Tests ohne eigenen Schlüssel.
  */
-export const DIP_API_KEY = 'R2BZaee.DjdCyihKZMf8AOjtScubP2EVydegzjmBIQ';
+const PUBLIC_DIP_API_KEY = 'R2BZaee.DjdCyihKZMf8AOjtScubP2EVydegzjmBIQ';
+
+/**
+ * Der eigene Schlüssel von Lima Projects (erteilt am 12.11.2026, zehn Jahre gültig) steht bewusst
+ * nicht im Quelltext. Er kommt beim Bauen über die Umgebungsvariable EXPO_PUBLIC_DIP_API_KEY hinein:
+ * lokal aus app/.env.local (nicht im Repo), für Store-Builds aus den EAS-Umgebungsvariablen.
+ */
+export const DIP_API_KEY = process.env.EXPO_PUBLIC_DIP_API_KEY?.trim() || PUBLIC_DIP_API_KEY;
 
 export const DIP_API_URL = 'https://search.dip.bundestag.de/api/v1';
 export const DIP_PORTAL_URL = 'https://dip.bundestag.de';
