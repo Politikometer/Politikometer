@@ -1,3 +1,4 @@
+import type { ReactNode } from 'react';
 import { StyleSheet, View } from 'react-native';
 
 import { AppPressable } from '@/ui/components/AppPressable';
@@ -11,10 +12,12 @@ type Props = {
   onPress: () => void;
   /** Zusatz für Screenreader, z. B. „Öffnet das Profil“. */
   hint?: string;
+  /** Zierelement links, z. B. ein Porträt. Für Screenreader ohne Bedeutung. */
+  leading?: ReactNode;
 };
 
 /** Ganze Zeile antippbar; Screenreader lesen Titel und Untertitel als eine Einheit. */
-export function ListButton({ title, subtitle, detail, onPress, hint }: Props) {
+export function ListButton({ title, subtitle, detail, onPress, hint, leading }: Props) {
   const theme = useTheme();
   const { colors } = theme;
   const label = [title, subtitle, detail].filter(Boolean).join(', ');
@@ -33,6 +36,7 @@ export function ListButton({ title, subtitle, detail, onPress, hint }: Props) {
         },
         cardShadow(theme),
       ]}>
+      {leading}
       <View style={styles.text}>
         {/* Keine header-Rolle: Die ganze Zeile ist ein Knopf mit eigenem Namen. */}
         <AppText variant="heading" accessibilityRole="none" style={styles.title}>
@@ -53,8 +57,8 @@ const styles = StyleSheet.create({
     minHeight: MIN_TOUCH + 16,
     flexDirection: 'row',
     alignItems: 'center',
-    gap: spacing.sm,
-    paddingHorizontal: spacing.md + 4,
+    gap: spacing.md,
+    paddingHorizontal: spacing.md,
     paddingVertical: spacing.md,
     borderWidth: 1,
     borderRadius: radius.lg,

@@ -6,7 +6,11 @@ import { CitizenQuestions } from '@/features/bundestag/CitizenQuestions';
 import { usePoliticianProfile, useVotes } from '@/features/bundestag/hooks';
 import { VoteList } from '@/features/bundestag/VoteList';
 import { VotingExplainer } from '@/features/bundestag/VotingExplainer';
+import { FiguresCard } from '@/features/rangliste/FiguresCard';
+import { photoCredit } from '@/data/sources/local/photos';
 import { AppText } from '@/ui/components/AppText';
+import { Avatar } from '@/ui/components/Avatar';
+import { ExternalLink } from '@/ui/components/ExternalLink';
 import { Button } from '@/ui/components/Button';
 import { Card } from '@/ui/components/Card';
 import { FavoriteButton } from '@/ui/components/FavoriteButton';
@@ -86,12 +90,21 @@ export default function PoliticianScreen() {
 
       {data ? (
         <>
-          <View style={{ gap: spacing.xs }}>
-            <AppText variant="title">
-              {[data.politician.title, data.politician.fullName].filter(Boolean).join(' ')}
-            </AppText>
-            <AppText variant="muted">{subtitle}</AppText>
+          <View style={styles.head}>
+            <Avatar
+              politicianId={data.politician.id}
+              name={data.politician.fullName}
+              fraction={data.mandate?.fraction ?? data.politician.party}
+              size={96}
+            />
+            <View style={styles.headText}>
+              <AppText variant="title">
+                {[data.politician.title, data.politician.fullName].filter(Boolean).join(' ')}
+              </AppText>
+              <AppText variant="muted">{subtitle}</AppText>
+            </View>
           </View>
+          <PhotoCreditLine politicianId={data.politician.id} />
 
           <View style={styles.actions}>
             <FavoriteButton
@@ -142,6 +155,8 @@ export default function PoliticianScreen() {
             </Card>
           )}
 
+          {data.mandate && !data.mandate.end ? <FiguresCard politicianId={data.politician.id} /> : null}
+
           <Card>
             <AppText variant="heading">Zur Person</AppText>
             <InfoRow label="Partei" value={data.politician.party} />
@@ -175,6 +190,22 @@ export default function PoliticianScreen() {
   );
 }
 
+/** Urheber und Lizenz des Porträts – Pflichtangabe der Creative-Commons-Lizenzen. */
+function PhotoCreditLine({ politicianId }: { politicianId: number }) {
+  const credit = photoCredit(politicianId);
+  if (!credit) return null;
+  return (
+    <View>
+      <AppText variant="small">
+        Foto: {credit.author} · {credit.license} · verkleinert und zugeschnitten
+      </AppText>
+      <ExternalLink url={credit.page} label="Bildseite bei Wikimedia Commons" />
+    </View>
+  );
+}
+
 const styles = StyleSheet.create({
+  head: { flexDirection: 'row', alignItems: 'center', gap: spacing.md },
+  headText: { flex: 1, gap: spacing.xs },
   actions: { flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm },
 });

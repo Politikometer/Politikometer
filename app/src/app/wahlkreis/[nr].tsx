@@ -9,6 +9,7 @@ import { useRepresentatives } from '@/features/bundestag/hooks';
 import { AppText } from '@/ui/components/AppText';
 import { Button } from '@/ui/components/Button';
 import { ExplainLink } from '@/ui/components/ExplainLink';
+import { Avatar } from '@/ui/components/Avatar';
 import { Card } from '@/ui/components/Card';
 import { ListButton } from '@/ui/components/ListButton';
 import { Screen } from '@/ui/components/Screen';
@@ -35,6 +36,13 @@ export default function ConstituencyScreen() {
       subtitle={r.mandate.fraction ?? r.politician.party}
       detail={describeHowElected(r.mandate.howElected)}
       hint="Öffnet das Profil"
+      leading={
+        <Avatar
+          politicianId={r.politician.id}
+          name={r.politician.fullName}
+          fraction={r.mandate.fraction ?? r.politician.party}
+        />
+      }
       onPress={() => openProfile(r)}
     />
   );

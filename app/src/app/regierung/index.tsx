@@ -6,6 +6,7 @@ import { useCabinet } from '@/features/regierung/hooks';
 import { SourceError } from '@/features/regierung/PagedItems';
 import { SnapshotUpdateNote, StaleSnapshotHint } from '@/features/regierung/SnapshotNote';
 import { AppText } from '@/ui/components/AppText';
+import { Avatar } from '@/ui/components/Avatar';
 import { Card } from '@/ui/components/Card';
 import { ListButton } from '@/ui/components/ListButton';
 import { Screen } from '@/ui/components/Screen';
@@ -24,6 +25,7 @@ function MemberRow({ member }: { member: CabinetMember }) {
       subtitle={member.offices.map((o) => o.title).join(' · ')}
       detail={[since ? `im Amt seit ${since}` : null, party ? `Partei: ${party}` : null].filter(Boolean).join(' · ')}
       hint={`Öffnet die Seite von ${member.name}`}
+      leading={<Avatar qid={member.wikidataId} name={member.name} fraction={party} />}
       onPress={() =>
         member.isHeadOfGovernment
           ? router.push('/regierung/bundeskanzler')

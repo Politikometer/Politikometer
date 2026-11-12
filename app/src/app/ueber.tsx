@@ -181,6 +181,12 @@ export default function AboutScreen() {
         <AppText variant="heading">Rechtliches</AppText>
         <ListButton title="Impressum" subtitle={PROVIDER.name} hint="Öffnet das Impressum" onPress={() => router.push('/rechtliches/impressum')} />
         <ListButton
+          title="Bildnachweise"
+          subtitle="Urheber und Lizenzen der Porträts"
+          hint="Öffnet die Liste der Bildnachweise"
+          onPress={() => router.push('/rechtliches/bildnachweise')}
+        />
+        <ListButton
           title="Open-Source-Lizenzen"
           subtitle="Lizenzen der verwendeten Software"
           hint="Öffnet die Liste der Open-Source-Lizenzen"

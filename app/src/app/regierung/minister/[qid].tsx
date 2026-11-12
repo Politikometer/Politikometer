@@ -10,6 +10,7 @@ import { dipRoleOfMember, officeOfMember } from '@/data/repositories/government-
 import { formatParty } from '@/features/regierung/format';
 import { useCabinetMember } from '@/features/regierung/hooks';
 import { MemberSections } from '@/features/regierung/MemberSections';
+import { Portrait } from '@/features/regierung/Portrait';
 import { SourceError } from '@/features/regierung/PagedItems';
 import { StaleSnapshotHint } from '@/features/regierung/SnapshotNote';
 import { AppText } from '@/ui/components/AppText';
@@ -67,6 +68,11 @@ export default function MinisterScreen() {
       {member && office ? (
         <>
           <Card>
+            <Portrait
+              qid={member.wikidataId}
+              name={member.name}
+              party={member.party ? (member.party.shortName ?? member.party.name) : null}
+            />
             <AppText variant="title">{member.name}</AppText>
             <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: spacing.sm }}>
               <FavoriteButton type="minister" id={member.wikidataId} title={member.name} subtitle={office.title} />

@@ -116,6 +116,12 @@ export default function StartScreen() {
             onPress={() => router.push('/abgeordnete')}
           />
           <MenuRow
+            title="Rangliste"
+            subtitle="Wer stimmt ab, wer antwortet?"
+            hint="Öffnet die Rangliste der Abgeordneten nach Teilnahme und Antworten"
+            onPress={() => router.push('/rangliste')}
+          />
+          <MenuRow
             title="Bundesregierung"
             subtitle="Kanzler, Ministerinnen und Minister"
             hint="Öffnet die Übersicht aller Mitglieder der Bundesregierung"

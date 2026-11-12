@@ -5,6 +5,7 @@ import { StatusBar } from 'expo-status-bar';
 import { connectQueryToAppLifecycle } from '@/state/app-lifecycle';
 import { persistOptions, queryClient } from '@/state/query-client';
 import { HomeTitle } from '@/ui/components/HomeTitle';
+import { StartScreen } from '@/ui/components/StartScreen';
 import { useTheme } from '@/ui/theme';
 
 // Stürzt eine Seite beim Anzeigen ab, zeigt expo-router diese Fehlerseite statt eines leeren Bildschirms.
@@ -50,6 +51,8 @@ export default function RootLayout() {
           <Stack.Screen name="politiker/[id]" options={{ title: 'Profil' }} />
           <Stack.Screen name="abstimmungen/[mandateId]" options={{ title: 'Abstimmungen' }} />
           <Stack.Screen name="abstimmung/[pollId]" options={{ title: 'Abstimmung' }} />
+          <Stack.Screen name="rangliste/index" options={{ title: 'Rangliste' }} />
+          <Stack.Screen name="rechtliches/bildnachweise" options={{ title: 'Bildnachweise' }} />
           <Stack.Screen name="regierung/index" options={{ title: 'Bundesregierung' }} />
           <Stack.Screen name="regierung/bundeskanzler" options={{ title: 'Bundeskanzler' }} />
           <Stack.Screen name="regierung/minister/[qid]" options={{ title: 'Mitglied der Bundesregierung' }} />
@@ -65,6 +68,7 @@ export default function RootLayout() {
           <Stack.Screen name="erklaert/index" options={{ title: 'So funktioniert Politik' }} />
           <Stack.Screen name="erklaert/[thema]" options={{ title: 'Erklärung' }} />
         </Stack>
+        <StartScreen />
       </ThemeProvider>
     </PersistQueryClientProvider>
   );

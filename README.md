@@ -56,7 +56,7 @@ Ergebnis: `app/assets/data/plz-wahlkreis.json`. Methodik und Grenzen: [docs/date
 ## Grundsätze
 
 - Jede angezeigte Information verlinkt auf ihre Quelle und zeigt das Abrufdatum.
-- Neutral: alphabetische Reihenfolge, keine Parteifarben, keine Wertungen.
+- Neutral: Die App zählt nur, ob Abgeordnete abstimmen und Bürgerfragen beantworten – nie, wie sie abstimmen. Die Rangliste ist keine politische Bewertung; Fraktionsfarben dienen nur der Orientierung.
 - Barrierearm: skaliert mit der Systemschrift, hoher Kontrast, Screenreader-Beschriftungen, große Tippflächen.
 - Datensparsam: Postleitzahl und Zwischenspeicher bleiben auf dem Gerät.
 - Rate-Limits der Quellen werden eingehalten (abgeordnetenwatch: max. 20 statt erlaubter 30 Anfragen pro Minute).

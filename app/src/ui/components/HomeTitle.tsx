@@ -9,7 +9,7 @@ export function HomeTitle() {
   return (
     <View style={styles.row} accessible accessibilityRole="header" accessibilityLabel="Politikometer">
       <Image
-        source={require('@/assets/images/favicon.png')}
+        source={require('../../../assets/images/favicon.png')}
         style={styles.icon}
         accessible={false}
         importantForAccessibility="no"

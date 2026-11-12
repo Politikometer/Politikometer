@@ -3,14 +3,17 @@ import { useMemo, useState } from 'react';
 import { AccessibilityInfo, FlatList, StyleSheet, TextInput, View } from 'react-native';
 
 import type { MemberListEntry } from '@/domain/model';
+import { fractionColor } from '@/domain/fractions';
 import { describeSeat } from '@/domain/representatives';
 import { createSearch } from '@/domain/search';
 import { FractionFilter } from '@/features/bundestag/FractionFilter';
 import { useAllMembers } from '@/features/bundestag/hooks';
 import { AppPressable } from '@/ui/components/AppPressable';
 import { AppText } from '@/ui/components/AppText';
+import { Avatar } from '@/ui/components/Avatar';
 import { Card } from '@/ui/components/Card';
 import { ListButton } from '@/ui/components/ListButton';
+import { StackedBar } from '@/ui/components/Meter';
 import { RefreshButton } from '@/ui/components/Screen';
 import { SourceNote } from '@/ui/components/SourceNote';
 import { QueryStatus } from '@/ui/components/StatusViews';
@@ -18,18 +21,19 @@ import { usePullToRefresh } from '@/ui/pull-to-refresh';
 import { fontSize, MIN_TOUCH, radius, spacing, useTheme } from '@/ui/theme';
 
 const EMPTY: MemberListEntry[] = [];
+const NO_FRACTIONS: string[] = [];
 
 /** Alle aktuellen Bundestagsabgeordneten mit Namenssuche. */
 export default function AllMembersScreen() {
   const router = useRouter();
-  const { colors } = useTheme();
+  const { colors, dark } = useTheme();
   const query = useAllMembers();
   const refresh = usePullToRefresh(query.refetch);
   const [search, setSearch] = useState('');
   const [fraction, setFraction] = useState<string | null>(null);
 
   const members = query.data?.members ?? EMPTY;
-  const fractions = query.data?.fractions ?? [];
+  const fractions = query.data?.fractions ?? NO_FRACTIONS;
   const activeFraction = fraction && fractions.includes(fraction) ? fraction : null;
 
   const byFraction = useMemo(
@@ -38,6 +42,20 @@ export default function AllMembersScreen() {
   );
   const find = useMemo(() => createSearch(byFraction, (m) => m.fullName), [byFraction]);
   const visible = useMemo(() => find(search), [find, search]);
+
+  const seats = useMemo(
+    () =>
+      fractions
+        .map((f) => ({
+          key: f,
+          label: f,
+          count: members.filter((m) => m.fraction === f).length,
+          color: fractionColor(f, dark),
+        }))
+        // Größte Fraktion zuerst; bei gleicher Größe alphabetisch.
+        .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, 'de')),
+    [fractions, members, dark],
+  );
 
   const filtered = search.trim() !== '' || activeFraction !== null;
   const countText = filtered
@@ -51,6 +69,14 @@ export default function AllMembersScreen() {
         {query.data ? `${query.data.term.label}. ` : ''}Alphabetisch nach Nachnamen. Tippe auf einen
         Namen, um das Profil zu öffnen.
       </AppText>
+
+      {seats.length > 1 ? (
+        <Card>
+          <AppText variant="heading">Sitzverteilung</AppText>
+          <StackedBar segments={seats} unit="Sitze" />
+          <AppText variant="small">Nach Zahl der Sitze, größte Fraktion zuerst.</AppText>
+        </Card>
+      ) : null}
 
       <AppText style={{ fontWeight: '600' }} nativeID="name-search-label" importantForAccessibility="no">
         Nach Namen suchen
@@ -122,6 +148,7 @@ export default function AllMembersScreen() {
           subtitle={item.fraction}
           detail={describeSeat(item)}
           hint="Öffnet das Profil"
+          leading={<Avatar politicianId={item.politicianId} name={item.fullName} fraction={item.fraction} />}
           onPress={() =>
             router.push({ pathname: '/politiker/[id]', params: { id: String(item.politicianId) } })
           }

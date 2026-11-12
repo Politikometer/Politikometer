@@ -1,6 +1,7 @@
 import { Stack } from 'expo-router';
 
 import { MemberSections } from '@/features/regierung/MemberSections';
+import { Portrait } from '@/features/regierung/Portrait';
 import { formatParty } from '@/features/regierung/format';
 import { useChancellor } from '@/features/regierung/hooks';
 import { SourceError } from '@/features/regierung/PagedItems';
@@ -30,6 +31,11 @@ export default function ChancellorScreen() {
       {office ? (
         <>
           <Card>
+            <Portrait
+              qid={office.wikidataId}
+              name={office.name}
+              party={office.party ? (office.party.shortName ?? office.party.name) : null}
+            />
             <AppText variant="title">{office.name}</AppText>
             <AppText variant="muted">{office.title} der Bundesrepublik Deutschland</AppText>
             <InfoRow label="Im Amt seit" value={formatDate(office.inOfficeSince)} />

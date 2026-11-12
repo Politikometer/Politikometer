@@ -41,6 +41,7 @@
     "eslint-config-expo": "~58.0.4",
     "jest": "^30.5.2",
     "jest-expo": "^58.0.12",
+    "sharp": "^0.35.5",
     "typescript": "~6.0.3"
   },
   "scripts": {
@@ -56,6 +57,7 @@
     "check": "npm run route-types && npm run typecheck && npm run lint && npm test",
     "licenses": "node ../tools/licenses/build.mjs",
     "regierung": "node ../tools/regierung/build.mjs",
+    "abgeordnete": "node ../tools/abgeordnete/build.mjs",
     "quellencheck": "node ../tools/quellencheck/check.mjs",
     "site": "node ../tools/site/build.mjs"
   },
