@@ -1,5 +1,5 @@
 # Veröffentlicht den Ordner site/ über GitHub Pages.
-# Branch-Veröffentlichung erlaubt nur / oder /docs (docs/ ist schon belegt) – daher dieser Workflow.
+# Läuft bei jedem Push: Das öffentliche Repository enthält seit 15.11.2026 nur noch die Webseite.
 # Einmalig im Repository einstellen: Settings → Pages → Source: „GitHub Actions“.
 # Die Seiten werden lokal erzeugt (cd app && npm run site) und mit eingecheckt; hier wird nichts gebaut.
 # Hauptversionen der Actions am 11.11.2026 gegen github.com/actions/… geprüft (jeweils aktuellste).
@@ -8,7 +8,6 @@ name: Webseite
 on:
   push:
     branches: [main]
-    paths: ['site/**']
   workflow_dispatch:
 
 permissions:
